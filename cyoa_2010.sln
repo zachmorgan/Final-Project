@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cyoa", "cyoa\cyoa_2010.csproj", "{19069D3C-A9A6-4B78-A119-A491E5D6955E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19069D3C-A9A6-4B78-A119-A491E5D6955E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19069D3C-A9A6-4B78-A119-A491E5D6955E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19069D3C-A9A6-4B78-A119-A491E5D6955E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19069D3C-A9A6-4B78-A119-A491E5D6955E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

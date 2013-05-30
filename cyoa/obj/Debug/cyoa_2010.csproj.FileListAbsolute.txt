@@ -1,0 +1,5 @@
+C:\Users\Jameson Nuss\Documents\GitHub\beerventure\cyoa\bin\cyoa_2010.dll
+C:\Users\Jameson Nuss\Documents\GitHub\beerventure\cyoa\bin\cyoa_2010.pdb
+C:\Users\Jameson Nuss\Documents\GitHub\beerventure\cyoa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jameson Nuss\Documents\GitHub\beerventure\cyoa\obj\Debug\cyoa_2010.dll
+C:\Users\Jameson Nuss\Documents\GitHub\beerventure\cyoa\obj\Debug\cyoa_2010.pdb
