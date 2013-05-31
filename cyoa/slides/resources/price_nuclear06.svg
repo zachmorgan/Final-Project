@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1020px"
+	 height="1020px" viewBox="0 0 1020 1020" enable-background="new 0 0 1020 1020" xml:space="preserve">
+<symbol  id="star" viewBox="-27 -25.366 54 50.731">
+	<polygon fill="#FFFFFF" points="0,25.366 8.242,8.666 26.671,5.988 13.335,-7.011 16.483,-25.366 0,-16.699 -16.483,-25.366 
+		-13.335,-7.011 -26.671,5.988 -8.242,8.666 	"/>
+	<polygon display="none" fill="none" points="-27,25 27,25 27,-25 -27,-25 	"/>
+</symbol>
+<g id="Guides" display="none">
+</g>
+<g id="_x31_2_Col_Grid" display="none" opacity="0.1" enable-background="new    ">
+	<g display="inline">
+		<g>
+			<rect x="920" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="840" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="760" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="680" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="600" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="520" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="440" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="360" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="280" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="200" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="120" fill="#FF0000" width="60" height="1020"/>
+		</g>
+		<g>
+			<rect x="40" fill="#FF0000" width="60" height="1020"/>
+		</g>
+	</g>
+</g>
+<g id="bg" display="none">
+	<rect display="inline" fill="#1A1A1A" width="1020" height="1021"/>
+</g>
+<g id="stars" display="none">
+	<g display="inline" opacity="0.3">
+		<g>
+			<g>
+				<polygon fill="#FAFF73" points="99.401,40.605 96.922,46.9 100.878,52.443 93.923,52.108 89.694,57.459 87.875,50.958 
+					81.306,48.722 87.137,45.039 87.305,38.306 92.728,42.531 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="171.532,36.947 166.376,41.735 167.531,48.556 161.231,45.293 154.88,48.463 156.142,41.66 
+					151.062,36.798 158.142,35.855 161.353,29.681 164.467,35.902 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="194.465,110.015 190.261,115.725 192.741,122.312 185.828,120.208 180.117,124.525 
+					180.049,117.516 174.04,113.597 180.911,111.368 182.908,104.629 187.223,110.261 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="104.162,240.011 105.107,245.577 110.384,247.978 105.204,250.568 104.473,256.163 
+					100.326,252.199 94.598,253.256 97.215,248.215 94.405,243.273 100.17,244.123 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="61.199,406.141 62.834,413.499 70.028,416.368 63.298,420.146 62.7,427.65 56.905,422.626 
+					49.341,424.395 52.491,417.512 48.414,411.101 56.155,411.872 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="121.109,593.484 121.29,598.461 125.632,601.139 120.794,602.843 119.503,607.664 
+					116.332,603.74 111.193,604.043 114.071,599.913 112.186,595.279 117.135,596.65 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="206.009,438.308 206.414,439.898 207.998,440.478 206.559,441.342 206.479,442.978 
+					205.185,441.921 203.551,442.354 204.19,440.836 203.261,439.467 204.95,439.586 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="61.337,476.043 62.359,480.417 66.665,482.083 62.679,484.375 62.373,488.85 58.887,485.893 
+					54.392,486.993 56.223,482.873 53.751,479.078 58.369,479.489 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="31.181,663.92 33.73,669.711 40.107,670.963 35.201,675.098 35.94,681.351 30.358,678.114 
+					24.438,680.728 25.896,674.593 21.497,669.954 27.979,669.399 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="344.48,725.256 343.817,728.335 346.063,730.609 342.83,730.95 341.288,733.719 
+					339.954,730.851 336.755,730.288 339.163,728.175 338.728,725.058 341.55,726.619 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="281.21,780.588 282.217,784.844 286.412,786.455 282.538,788.695 282.25,793.053 
+					278.85,790.182 274.478,791.264 276.25,787.248 273.834,783.561 278.33,783.949 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="344.011,890.646 349.512,896.359 357.496,895.216 353.578,902.041 357.17,909.032 
+					349.248,907.536 343.483,913.001 342.505,905.252 335.351,901.638 342.668,898.344 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="569.07,809.325 573.274,811.752 577.725,809.777 576.638,814.395 579.954,817.879 
+					575.078,818.306 572.678,822.433 570.751,818.079 565.951,817.146 569.637,814.028 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="712.618,698.479 718.816,702.354 725.628,699.61 723.735,706.509 728.537,711.928 
+					721.169,712.317 717.324,718.409 714.664,711.752 707.486,710.098 713.21,705.594 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="677.994,884.277 685.399,886.093 691.145,881.222 691.647,888.595 698.213,892.374 
+					691.118,895.115 689.432,902.322 684.543,896.643 676.936,897.318 681.009,891.066 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="543.762,959.472 547.099,965.279 553.937,965.912 549.258,970.776 550.749,977.262 
+					544.52,974.461 538.604,977.837 539.433,971.241 534.285,966.842 541.026,965.566 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="154.748,742.453 159.125,747.378 165.802,746.683 162.312,752.23 165.059,758.157 
+					158.524,756.661 153.545,761.02 152.997,754.546 147.173,751.313 153.369,748.809 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="92.257,846.531 96.282,851.578 102.861,851.232 99.143,856.494 101.515,862.44 95.192,860.645 
+					90.079,864.665 89.891,858.294 84.357,854.833 90.563,852.69 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="176.1,928.688 181.633,930.778 186.55,927.554 186.205,933.289 190.895,936.815 
+					185.148,938.271 183.13,943.675 179.923,938.838 173.986,938.651 177.751,934.207 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="423.745,969.884 431.47,972.634 438.191,968.038 437.874,975.994 444.47,980.758 
+					436.549,982.924 433.904,990.464 429.326,983.847 421.094,983.743 426.186,977.487 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="972.016,739.698 974.379,744.33 979.663,745.072 975.84,748.678 976.742,753.769 
+					972.016,751.364 967.289,753.769 968.191,748.678 964.368,745.072 969.652,744.33 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="897.472,584.904 904.27,585.657 908.764,580.667 910.125,587.153 916.421,589.746 
+					910.463,593.002 909.859,599.594 904.817,595.12 898.148,596.602 900.989,590.581 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="987.541,475.117 990.716,481.338 997.814,482.336 992.678,487.179 993.891,494.017 
+					987.541,490.788 981.191,494.017 982.404,487.179 977.268,482.336 984.366,481.338 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="931.135,343.186 932.05,351.056 939.271,354.789 931.815,358.063 930.376,365.859 
+					924.853,360.012 916.741,361.098 920.784,354.21 917.21,347.084 925.232,348.675 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="912.153,86.353 920.508,87.358 926.1,81.271 927.693,89.267 935.407,92.53 928.037,96.467 
+					927.212,104.57 921.063,99.007 912.841,100.752 916.41,93.378 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="580.994,260.694 583.64,265.878 589.555,266.709 585.274,270.745 586.284,276.442 
+					580.994,273.752 575.704,276.442 576.714,270.745 572.434,266.709 578.349,265.878 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="833.521,203.947 836.069,197.109 831.69,191.203 839.201,191.435 843.656,185.582 
+					845.749,192.562 852.882,194.851 846.664,198.934 846.617,206.202 840.682,201.745 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="670.24,123.006 677.412,126.923 684.813,123.43 683.178,131.237 688.9,136.966 680.718,137.874 
+					676.854,144.908 673.432,137.663 665.32,136.281 671.388,130.895 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="477.497,16.354 475.179,22.142 478.793,27.27 472.387,26.925 468.461,31.835 466.82,25.835 
+					460.779,23.742 466.171,20.377 466.364,14.174 471.338,18.095 				"/>
+			</g>
+			<g>
+				<polygon fill="#FAFF73" points="518.951,129.352 517.285,136.212 522.185,141.429 514.924,142.017 511.308,148.135 
+					508.486,141.638 501.353,140.203 506.87,135.599 506.076,128.594 512.308,132.246 				"/>
+			</g>
+		</g>
+		<g>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2544 0.265 0.274 -0.2461 92.4507 46.8481)" overflow="visible" opacity="0.1166"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.1158 0.3539 0.3659 -0.112 162.2515 39.7891)" overflow="visible" opacity="0.4182"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.1844 0.3315 0.3427 -0.1783 185.772 114.5381)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2995 0.0882 0.0912 -0.2897 101.8486 247.3604)" overflow="visible" opacity="0.5111"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.4052 0.0987 0.1021 -0.3919 58.6099 416.0815)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2521 0.1098 0.1136 -0.2438 118.2285 599.6689)" overflow="visible" opacity="0.3231"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.0888 0.0189 0.0196 -0.0859 205.5122 440.4868)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2421 0.0563 0.0582 -0.2341 59.8594 481.9824)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.3489 0.0189 0.0196 -0.3374 30.6851 672.4795)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.1375 0.1041 0.1076 -0.133 341.751 728.6299)" overflow="visible" opacity="0.4146"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2358 0.0543 0.0561 -0.2281 279.7871 786.373)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.4152 -0.1204 -0.1245 -0.4015 347.1689 900.8311)" overflow="visible" opacity="0.4147"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2207 -0.1381 -0.1428 -0.2135 572.6934 814.7402)" overflow="visible" opacity="0.2231"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.3401 -0.1966 -0.2033 -0.329 717.7744 706.8242)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2664 -0.3018 -0.312 -0.2576 685.9082 890.8125)" overflow="visible" opacity="0.545"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.3684 -0.0174 -0.018 -0.3563 544.2188 968.5107)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.3492 -0.0868 -0.0898 -0.3378 157.0249 751.0205)" overflow="visible" opacity="0.4268"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.3469 -0.0675 -0.0698 -0.3355 94.0273 855.042)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2355 -0.208 -0.2151 -0.2278 181.5562 934.4668)" overflow="visible" opacity="0.2661"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.3205 -0.2944 -0.3044 -0.31 431.4658 977.7471)" overflow="visible" opacity="0.0755"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2867 0 0 -0.2773 972.0156 746.7334)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.199 -0.2987 -0.3089 -0.1925 905.3057 589.7871)" overflow="visible" opacity="0.5487"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.3852 0 0 -0.3726 987.541 484.5669)" overflow="visible" opacity="0.229"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.4136 0.1444 0.1493 -0.4 927.3467 353.332)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.2486 -0.3652 -0.3776 -0.2404 921.7314 92.4517)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.321 0 0 -0.3104 580.9941 268.5684)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(-0.2798 -0.2812 -0.2907 0.2706 840.8945 197.0815)" overflow="visible" opacity="0.1918"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.3654 -0.2409 -0.2491 -0.3534 676.5586 131.9717)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.233 0.2455 0.2538 -0.2254 471.0586 22.0713)" overflow="visible"/>
+			
+				<use xlink:href="#star"  width="54" height="50.731" x="-27" y="-25.366" transform="matrix(0.302 0.2406 0.2488 -0.2921 512.6406 136.7603)" overflow="visible"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_5" display="none">
+	<g display="inline">
+		<defs>
+			<path id="SVGID_1_" d="M1020,683.426c-26.294-9.216-54.556-14.244-83.995-14.244c-140.22,0-253.901,113.682-253.901,253.92
+				c0,34.7,6.971,67.77,19.574,97.898H1020V683.426z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_2_)" fill="#001F30" d="M1189.917,923.102c0,140.222-113.694,253.901-253.912,253.901
+			c-140.22,0-253.901-113.68-253.901-253.901c0-140.238,113.682-253.92,253.901-253.92
+			C1076.223,669.182,1189.917,782.863,1189.917,923.102z"/>
+	</g>
+	<polygon display="inline" fill="#74090D" points="40.559,81.14 49.274,48.716 81.698,40 105.409,63.71 96.692,96.134 
+		64.268,104.85 	"/>
+</g>
+<g id="Layer_3" display="none">
+	<rect x="509" y="580" display="inline" fill="#CCCCCC" width="320" height="40"/>
+	<rect x="509" y="620" display="inline" fill="#999999" width="320" height="6"/>
+	<rect x="508" y="636" display="inline" fill="#FAFF73" width="321" height="40"/>
+	<rect x="508" y="676" display="inline" fill="#BCBF56" width="321" height="6"/>
+	<rect x="199.913" y="580" display="inline" fill="none" width="300.174" height="164.174"/>
+	<text transform="matrix(1 0 0 1 199.9131 592.1602)" display="inline"><tspan x="0" y="0" fill="#999999" font-family="'Verdana'" font-size="16">You launch the entire human race&apos;s </tspan><tspan x="0" y="19.201" fill="#999999" font-family="'Verdana'" font-size="16">available stockpile of nuclear weap</tspan><tspan x="280.391" y="19.201" fill="#999999" font-family="'Verdana'" font-size="16">-</tspan><tspan x="0" y="38.4" fill="#999999" font-family="'Verdana'" font-size="16">ons at the asteroid.  Some manage </tspan><tspan x="0" y="57.6" fill="#999999" font-family="'Verdana'" font-size="16">to hit it, but several accidentally fail </tspan><tspan x="0" y="76.801" fill="#999999" font-family="'Verdana'" font-size="16">and destroy entire cities.  Eventually </tspan><tspan x="0" y="96" fill="#999999" font-family="'Verdana'" font-size="16">the asteroid hits anyway.</tspan></text>
+	<rect x="519.152" y="594.107" display="inline" fill="none" width="299.695" height="25.479"/>
+	<text transform="matrix(1 0 0 1 593.2266 604.748)" display="inline" fill="#333333" font-family="'Verdana'" font-size="14">Make the news public</text>
+	<g display="inline">
+		<rect x="519.152" y="650.44" fill="none" width="299.695" height="24.367"/>
+		<text transform="matrix(1 0 0 1 545.8398 661.0801)" fill="#5A5C29" font-family="'Verdana'" font-size="14">Brief the president on the situation</text>
+	</g>
+	<rect x="190" y="80" display="inline" fill="#333333" width="640" height="480"/>
+	<rect x="199" y="90" display="inline" width="620" height="460"/>
+	<text transform="matrix(1 0 0 1 362.6133 59)" display="inline" fill="#CCCCCC" font-family="'Verdana-Bold'" font-size="24">Title of the Adventure</text>
+	<rect id="_x3C_Slice_x3E__8_" x="376" y="210" display="inline" fill="none" width="110" height="31"/>
+</g>
+<g id="nuclear" display="none">
+	<g display="inline">
+		<g>
+			<rect x="598" y="405" fill="#FFFFFF" width="20" height="30"/>
+			<path fill="#FFFFFF" d="M523.574,435c-8.284,0-15-6.716-14.999-15l0,0c0-8.284,6.715-15,14.999-15h50
+				c8.284,0,34.774,6.717,34.775,15l0,0c-0.002,8.285-26.491,15-34.774,15H523.574z"/>
+		</g>
+		<g>
+			<rect x="528" y="412" fill="#320240" width="4" height="16"/>
+			<rect x="532" y="412" fill="#D9411E" width="4" height="16"/>
+			<rect x="536" y="412" fill="#320240" width="4" height="16"/>
+		</g>
+	</g>
+	<polygon display="inline" fill="#0B3A40" points="465.901,546.553 468.73,549.381 465.902,546.552 	"/>
+	<g display="inline">
+		<g>
+			<rect x="418" y="439" fill="#FFFFFF" width="20" height="30"/>
+			<path fill="#FFFFFF" d="M343.715,469c-8.285,0-15.001-6.716-15-15l0,0c0-8.283,6.715-15,14.999-15h50.001
+				c8.284,0,34.774,6.717,34.774,14.999l0,0c-0.001,8.285-26.49,15.001-34.774,15.001H343.715z"/>
+		</g>
+		<g>
+			<rect x="348" y="459" fill="#FF8900" width="12" height="4"/>
+			<rect x="348" y="451" fill="#0A7AA6" width="12" height="4"/>
+			<rect x="348" y="455" fill="#F23005" width="12" height="4"/>
+			<rect x="348" y="447" fill="#FFB800" width="12" height="4"/>
+		</g>
+	</g>
+	<g display="inline">
+		<g>
+			<rect x="569" y="497" fill="#FFFFFF" width="20" height="30"/>
+			<path fill="#FFFFFF" d="M494.651,527c-8.284,0-15-6.716-15-14.999l0,0c0-8.284,6.717-15.001,15-15.001h50
+				c8.284,0,34.774,6.717,34.774,15l0,0c-0.001,8.285-26.49,15-34.774,15H494.651z"/>
+		</g>
+		<g>
+			<rect x="499" y="503" fill="#ADD9C9" width="4" height="16"/>
+			<rect x="499" y="503" fill="#D9042B" width="4" height="16"/>
+			<rect x="503" y="503" fill="#F2505D" width="4" height="16"/>
+			<polygon fill="#F2505D" points="507,503.582 507,519 503.216,519 			"/>
+			<polygon fill="#F2505D" points="503,503 503,519.581 503,519.581 499.216,503 			"/>
+			<rect x="507" y="503" fill="#D9042B" width="4" height="16"/>
+			<polygon fill="#F2505D" points="507,503.582 507,519 511.216,519 			"/>
+			<polygon fill="#320240" points="501.164,512.115 503.589,510.918 503.979,508.242 505.866,510.179 508.531,509.721 
+				507.273,512.115 508.532,514.509 505.867,514.053 503.979,515.988 503.59,513.313 			"/>
+		</g>
+	</g>
+	<g display="inline">
+		<g>
+			<rect x="595" y="138" fill="#FFFFFF" width="20" height="30"/>
+			<path fill="#FFFFFF" d="M520.675,168c-8.284,0-15-6.716-15-15l0,0c0-8.283,6.717-15,15.001-15h49.999
+				c8.284,0,34.774,6.717,34.775,15l0,0c-0.001,8.283-26.491,15-34.775,15H520.675z"/>
+		</g>
+		<g>
+			<rect x="521" y="146" fill="#1F2FFF" width="12" height="16"/>
+			<rect x="521" y="150" fill="#FB6D32" width="4" height="8"/>
+			<rect x="529" y="150" fill="#FB6D32" width="4" height="8"/>
+			<rect x="525" y="150" fill="#DF1CBC" width="4" height="8"/>
+			
+				<rect x="525.895" y="152.454" transform="matrix(0.7072 -0.707 0.707 0.7072 45.3789 418.4749)" fill="#FFCD6C" width="4.001" height="4"/>
+		</g>
+	</g>
+	<g display="inline">
+		<g>
+			<rect x="673" y="209" fill="#FFFFFF" width="20" height="30"/>
+			<path fill="#FFFFFF" d="M597.93,239c-8.284,0-15-6.716-15-15l0,0c0-8.284,6.717-15,15-15h50.001c8.283,0,34.773,6.717,34.774,15
+				l0,0c-0.002,8.284-26.49,15-34.775,15H597.93z"/>
+		</g>
+		<g>
+			<rect x="602" y="216" fill="#FFFFFF" width="12" height="16"/>
+			<rect x="602" y="228" fill="#C90502" width="3" height="4"/>
+			<rect x="602" y="216" fill="#1763A6" width="1" height="8"/>
+			<rect x="604" y="216" fill="#1763A6" width="1" height="8"/>
+			<rect x="606" y="216" fill="#1763A6" width="1" height="8"/>
+			<rect x="608" y="216" fill="#1763A6" width="1" height="16"/>
+			<rect x="610" y="216" fill="#1763A6" width="1" height="16"/>
+			<rect x="612" y="216" fill="#1763A6" width="1" height="16"/>
+			<rect x="605" y="224" fill="#C90502" width="3" height="4"/>
+		</g>
+	</g>
+	<g display="inline">
+		<g>
+			<rect x="466" y="211" fill="#FFFFFF" width="20" height="30"/>
+			<path fill="#FFFFFF" d="M391.712,241c-8.285,0-15-6.716-15-15l0,0c0-8.283,6.716-15,15-15h50c8.284,0,34.774,6.717,34.774,15l0,0
+				c-0.001,8.284-26.49,15-34.774,15H391.712z"/>
+		</g>
+		<g>
+			<rect x="396" y="218" fill="#FFA30D" width="12" height="16"/>
+			<circle fill="#660B55" cx="401.262" cy="230.017" r="3.5"/>
+			<path fill="#F25516" d="M402.763,219.517c0.553,0,1,0.448,0.999,1l0,0c0,0.552-0.447,1-0.999,1l0,0c-0.552,0-1-0.448-1-1l0,0
+				C401.762,219.965,402.209,219.517,402.763,219.517L402.763,219.517z"/>
+			<path fill="#F25516" d="M398.762,219.517c0.551,0,0.999,0.448,1,1.001l0,0c0,0.551-0.448,1-1,0.999l0,0c-0.552,0-1-0.448-1-1l0,0
+				C397.762,219.964,398.21,219.517,398.762,219.517L398.762,219.517z"/>
+			<path fill="#F25516" d="M406.762,219.517c0.552,0,1,0.448,1,1l0,0c0,0.552-0.447,1-1,1l0,0c-0.552,0-1-0.448-1-1l0,0
+				C405.763,219.964,406.21,219.517,406.762,219.517L406.762,219.517z"/>
+			<path fill="#F25516" d="M402.763,223.518c0.551,0,0.999,0.448,1,1l0,0c0.001,0.552-0.447,1-1,1l0,0c-0.553,0-1.001-0.448-1-1l0,0
+				C401.763,223.965,402.211,223.517,402.763,223.518L402.763,223.518z"/>
+			<path fill="#F25516" d="M398.763,223.517c0.552,0,1,0.447,0.999,1l0,0c0,0.553-0.447,1-1,1l0,0c-0.552-0.001-0.999-0.448-1-1l0,0
+				C397.762,223.965,398.209,223.518,398.763,223.517L398.763,223.517z"/>
+			<path fill="#F25516" d="M406.762,223.517c0.554,0,1.001,0.447,1,1l0,0c0,0.552-0.448,1-1,1l0,0c-0.551,0-1-0.448-1-1l0,0
+				C405.763,223.964,406.209,223.518,406.762,223.517L406.762,223.517z"/>
+			<path fill="#F25516" d="M406.761,229.518c0.554,0,1.002-0.449,1-1.001l0,0c0-0.552-0.448-0.999-1-0.999l0,0
+				c-0.551-0.001-0.999,0.447-0.999,0.999l0,0C405.763,229.07,406.21,229.517,406.761,229.518L406.761,229.518z"/>
+			<path fill="#F25516" d="M406.762,233.518c0.552,0,1-0.447,1-1l0,0c0-0.552-0.448-1-1.001-1l0,0c-0.551,0-1,0.448-0.999,0.999l0,0
+				C405.763,233.069,406.21,233.517,406.762,233.518L406.762,233.518z"/>
+			<circle fill="#C90502" cx="401.263" cy="230.017" r="1.686"/>
+		</g>
+	</g>
+	<g display="inline">
+		<g>
+			<rect x="529" y="314" fill="#FFFFFF" width="20" height="30"/>
+			<path fill="#FFFFFF" d="M453.867,344c-8.285,0-15-6.716-15-15l0,0c0-8.284,6.716-15,15-15h50c8.283,0,34.773,6.716,34.773,15l0,0
+				c-0.001,8.284-26.49,15-34.773,15H453.867z"/>
+		</g>
+		<g>
+			<rect x="458" y="321" fill="#EBD521" width="4" height="16"/>
+			<rect x="462" y="321" fill="#FA9F2A" width="4" height="16"/>
+			<rect x="466" y="321" fill="#E5341E" width="4" height="16"/>
+		</g>
+	</g>
+	<g display="inline">
+		<g>
+			<rect x="374" y="327" fill="#FFFFFF" width="20" height="30"/>
+			<path fill="#FFFFFF" d="M299.773,357c-8.284,0-15-6.716-15-15l0,0c0-8.283,6.716-15,15-15h50c8.284,0,34.774,6.717,34.774,15l0,0
+				c-0.001,8.284-26.491,15-34.774,15H299.773z"/>
+		</g>
+		<g>
+			<rect x="304" y="334" fill="#738A02" width="12" height="16"/>
+			<polygon fill="#FFA30D" points="316,334 316,350.047 304.368,334 			"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_11">
+	<g>
+		<g>
+			<rect x="712" y="317" fill="#FFFFFF" width="20" height="30"/>
+			<path fill="#FFFFFF" d="M637.528,347c-8.285,0-15.001-6.716-15-15l0,0c0-8.285,6.716-15,15.001-15h49.999
+				c8.283,0,34.774,6.716,34.773,15l0,0c-0.001,8.284-26.49,15-34.773,15H637.528z"/>
+		</g>
+		<g>
+			<rect x="642" y="324" fill="#0B3A40" width="12" height="16"/>
+			<polygon fill="#D9042B" points="645.797,333.023 644.628,329.033 648.62,330.201 652.61,329.034 651.441,333.023 
+				652.611,337.015 648.619,335.846 644.628,337.016 			"/>
+		</g>
+	</g>
+</g>
+<g id="smoke" display="none">
+	<path display="inline" fill="#FFFFFF" d="M52.993-101.49c-14.386-18.136-40.887-21.065-59.19-6.546
+		C-17.893-98.756-23.4-84.6-22.105-70.856c-11.773-6.619-25.916-6.477-36.073,1.58c-13.938,11.058-15.084,32.816-2.563,48.6
+		c1.945,2.453,4.108,4.616,6.424,6.482c-1.017,0.695-2.022,1.42-3.004,2.199c-21.157,16.785-25.782,46.182-10.33,65.66
+		c9.238,11.646,23.562,17.104,38.108,16.027c-6.762,11.822-6.676,26.092,1.438,36.32c11.058,13.938,32.816,15.085,48.6,2.563
+		c12.781-10.139,17.723-26.133,13.271-39.25c9.375,1.061,19.626-1.708,28.141-8.463c15.784-12.521,19.617-33.971,8.56-47.908
+		c-5.6-7.06-13.947-10.832-22.873-11.214C58.087-10.885,59.534-28.3,50.076-40.223c-0.909-1.146-1.896-2.197-2.941-3.168
+		C64.333-58.104,67.047-83.772,52.993-101.49z M7.553,49.542c0.242-0.313,0.477-0.632,0.712-0.949
+		c0.105,0.352,0.213,0.703,0.331,1.05C8.249,49.603,7.901,49.572,7.553,49.542z"/>
+	<path display="inline" fill="#FFFFFF" d="M889.595-44.836c-0.224,0.073-0.448,0.147-0.674,0.216
+		c0.159,0.134,0.317,0.269,0.474,0.408C889.456-44.421,889.524-44.629,889.595-44.836z"/>
+	<rect id="_x3C_Slice_x3E_" x="505" y="138" display="inline" fill="none" width="110" height="30"/>
+	<rect id="_x3C_Slice_x3E__1_" x="583" y="209" display="inline" fill="none" width="110" height="30"/>
+	<rect id="_x3C_Slice_x3E__2_" x="622" y="317" display="inline" fill="none" width="110" height="30"/>
+	<rect id="_x3C_Slice_x3E__3_" x="439" y="314" display="inline" fill="none" width="110" height="30"/>
+	<rect id="_x3C_Slice_x3E__4_" x="284" y="326" display="inline" fill="none" width="110" height="31"/>
+	<rect id="_x3C_Slice_x3E__5_" x="328" y="439" display="inline" fill="none" width="110" height="30"/>
+	<rect id="_x3C_Slice_x3E__6_" x="479" y="497" display="inline" fill="none" width="110" height="30"/>
+	<rect id="_x3C_Slice_x3E__7_" x="508" y="405" display="inline" fill="none" width="110" height="30"/>
+	<rect id="_x3C_Slice_x3E__9_" x="343" y="714" display="inline" fill="none" width="154" height="235"/>
+</g>
+<g id="info" display="none">
+	<text transform="matrix(1 0 0 1 467.1797 326)" display="inline" fill="#E42C00" font-family="'Verdana'" font-size="18">620 x460</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 830.8633 79)" fill="#E42C00" font-family="'Verdana'" font-size="18">640 x480</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 537.8926 703)"><tspan x="0" y="0" fill="#E42C00" font-family="'Verdana'" font-size="14">320 x Text height </tspan><tspan x="-35.253" y="16.8" fill="#E42C00" font-family="'Verdana'" font-size="14">w/ 15px margin top&amp;bottom</tspan></text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 203.1694 721)" fill="#E42C00" font-family="'Verdana'" font-size="14">300px width</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 676.6953 845)" fill="#E42C00" font-family="'Verdana'" font-size="14">stay at the bottom right corner of the screen</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 51.6504 118)"><tspan x="0" y="0" fill="#E42C00" font-family="'Verdana'" font-size="14">stay somewhere </tspan><tspan x="-30.977" y="16.8" fill="#E42C00" font-family="'Verdana'" font-size="14">around the top left corner</tspan></text>
+	</g>
+</g>
+<g id="unused" display="none">
+	<ellipse display="inline" fill="#FFFFFF" cx="1044" cy="4.5" rx="47" ry="41.5"/>
+	<ellipse display="inline" fill="#FFFFFF" cx="1124" cy="-10.5" rx="47" ry="41.5"/>
+	<ellipse display="inline" fill="#FFFFFF" cx="1146" cy="-80.5" rx="47" ry="41.5"/>
+	<ellipse display="inline" fill="#FFFFFF" cx="1107" cy="-149.5" rx="41.5" ry="47"/>
+	<ellipse display="inline" fill="#FFFFFF" cx="1190.5" cy="-140" rx="54.5" ry="54"/>
+	<ellipse display="inline" fill="#FFFFFF" cx="1062" cy="-80" rx="63" ry="58"/>
+	<g display="inline">
+		<rect x="1328.82" y="542.82" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 2684.9465 -6.5016)" width="30" height="19.999"/>
+		<path d="M1273.109,503.322c-5.858-5.857-5.858-15.355,0-21.213l0,0c5.857-5.857,15.355-5.857,21.213,0l35.355,35.355
+			c5.857,5.857,19.84,29.338,13.982,35.195l0,0c-5.858,5.857-29.338-8.125-35.195-13.982L1273.109,503.322z"/>
+	</g>
+	<g display="inline">
+		
+			<rect x="1323.82" y="639.82" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 2745.0005 162.6233)" width="30" height="19.999"/>
+		<path d="M1268.109,600.322c-5.858-5.857-5.858-15.355,0-21.213l0,0c5.857-5.857,15.355-5.857,21.213,0l35.355,35.355
+			c5.857,5.857,19.84,29.338,13.982,35.195l0,0c-5.858,5.857-29.338-8.125-35.195-13.982L1268.109,600.322z"/>
+	</g>
+	<g display="inline">
+		
+			<rect x="1208.82" y="585.82" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 2510.4993 151.7568)" width="30" height="19.999"/>
+		<path d="M1153.109,546.322c-5.858-5.857-5.858-15.355,0-21.213l0,0c5.857-5.857,15.355-5.857,21.213,0l35.355,35.355
+			c5.857,5.857,19.84,29.338,13.982,35.195l0,0c-5.858,5.857-29.338-8.125-35.195-13.982L1153.109,546.322z"/>
+	</g>
+	<g display="inline">
+		
+			<rect x="1210.82" y="677.82" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 2578.9673 307.3964)" width="30" height="19.999"/>
+		<path d="M1155.109,638.322c-5.858-5.857-5.858-15.355,0-21.213l0,0c5.857-5.857,15.355-5.857,21.213,0l35.355,35.355
+			c5.857,5.857,19.84,29.338,13.982,35.195l0,0c-5.858,5.857-29.338-8.125-35.195-13.982L1155.109,638.322z"/>
+	</g>
+	<g display="inline">
+		
+			<rect x="1109.82" y="673.82" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 2403.7212 371.9857)" width="30" height="19.999"/>
+		<path d="M1054.109,634.322c-5.858-5.857-5.858-15.355,0-21.213l0,0c5.857-5.857,15.355-5.857,21.213,0l35.355,35.355
+			c5.857,5.857,19.84,29.338,13.982,35.195l0,0c-5.858,5.857-29.338-8.125-35.195-13.982L1054.109,634.322z"/>
+	</g>
+</g>
+</svg>
