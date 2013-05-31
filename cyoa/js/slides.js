@@ -105,13 +105,12 @@ function LoadAndShowNextSlide(name) {
         currentSlide = Slides[name];
         
         //load it
-        currentSlide.Load();
-        
-        //show it
-        currentSlide.Show();
-
-        //notify that it is complete and has been shown
-        d.resolve();
+        currentSlide.Load().done(function () {
+            //show it
+            currentSlide.Show();
+            //notify that it is complete and has been shown
+            d.resolve();
+        });
     });
 
     //allow our caller to know when the slide has finished loading and showing
@@ -126,5 +125,5 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("start");
+    GoToSlide("kaori_price_nuclear");
 });

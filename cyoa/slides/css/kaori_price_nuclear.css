@@ -1,5 +1,4 @@
-﻿body {
-    background-color: #f00;
-}
-p {
+﻿div#svgcontainer {
+    width:620px;
+    height:460px;
 }
