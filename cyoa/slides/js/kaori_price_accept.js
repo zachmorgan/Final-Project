@@ -1,6 +1,30 @@
 ﻿
 
 
+if (!String.prototype.supplant) {
+    String.prototype.supplant = function (o) {
+        return this.replace(
+            /\{([^{}]*)\}/g,
+            function (a, b) {
+                var r = o[b];
+                return typeof r === 'string' || typeof r === 'number' ? r : a;
+            }
+        );
+    };
+}
+
+
+function LoadSvg(svg, url) {
+    var d = $.Deferred();
+
+    svg.load(url, function () {
+        d.resolve();
+    });
+
+    return d.promise();
+}
+
+
 Slides.kaori_price_nuclear = new Slide();
 
 
@@ -10,9 +34,11 @@ Slides.kaori_price_nuclear.Load = function () {
 
     $("#svgcontainer").svg(function (svg) {
 
+        Slides.kaori_price_nuclear.svg = svg;
+
         var svgsToLoad = [];
 
-        svgsToLoad.push(LoadSvg(svg, "/slides/resources/price_missle01.svg"));
+        svgsToLoad.push(LoadSvg(svg, "/slides/resources/price_person.svg"));
         svgsToLoad.push(LoadSvg(svg, "/slides/resources/price_smoke.svg"));
 
         $.when.apply($, svgsToLoad).done(function () {
@@ -46,12 +72,14 @@ Slides.kaori_price_nuclear.Show = function () {
 
         var transform = "translate({x},{y}) rotate({r}) scale({sX},{sY})".supplant({ x: rX, y: rY, r: 360 * Math.random(), sX: 1, sY: 1 });
 
+
         var promise = c.animate({ svgTransform: transform, svgOpacity: "0" }, 1000 * ((Math.random() * 5) + 2)).promise();
 
         smokeyPromises.push(promise);
     }
 
-    smokey.remove();
+
+    Slides.kaori_price_nuclear.svg.remove($("g#smoke")[0]);
 
     $.when.apply($, smokeyPromises).then(function () {
         var missile = $("g#missile01");

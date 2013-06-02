@@ -2,11 +2,15 @@
 Slides.start = new Slide();
 
 Slides.start.Load = function () {
-    
+    $("button").click(function() {
+        GoToSlide("president");
+    });
+
+    $("p").hide();
 };
 
 Slides.start.Unload = function() {
- 
+    $("button").unbind("click");
 };
 
 Slides.start.Show = function () {

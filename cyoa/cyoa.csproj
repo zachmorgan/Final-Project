@@ -106,17 +106,65 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="web.config" />
+    <Content Include="slides\resources\price_missle01.ai" />
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="css\style.css" />
     <Content Include="index.html" />
+    <Content Include="js\jquery.svg.min.js" />
+    <Content Include="js\jquery.svganim.min.js" />
     <Content Include="js\slides.js" />
+    <Content Include="js\utils.js" />
+    <Content Include="slides\css\jameson_nuss_time.css" />
     <Content Include="slides\css\president.css" />
     <Content Include="slides\css\start.css" />
+    <Content Include="slides\html\jameson_nuss_accident.html" />
+    <Content Include="slides\html\jameson_nuss_time.html" />
+    <Content Include="slides\html\johnson_andrew_earth_destroyed.html" />
+    <Content Include="slides\html\johnson_andrew_time_travel.html" />
+    <Content Include="slides\html\kaori_price_accept.html" />
+    <Content Include="slides\html\kaori_price_nuclear.html" />
+    <Content Include="slides\html\kc_forsyth_timeiscritical.html" />
+    <Content Include="slides\html\kc_forsyth_training.html" />
     <Content Include="slides\html\president.html" />
     <Content Include="slides\html\start.html" />
+    <Content Include="slides\html\zachary_morgan_timefuture.html" />
+    <Content Include="slides\html\zachary_morgan_toughdecison.html" />
+    <Content Include="slides\js\blank.js" />
+    <Content Include="slides\js\johnson_andrew_earth_destroyed.js" />
+    <Content Include="slides\js\johnson_andrew_time_travel.js" />
+    <Content Include="slides\js\kaori_price_accept.js" />
+    <Content Include="slides\js\jameson_nuss_accident.js" />
+    <Content Include="slides\js\jameson_nuss_time.js" />
+    <Content Include="slides\js\kaori_price_nuclear.js" />
     <Content Include="slides\js\president.js" />
     <Content Include="slides\js\start.js" />
+    <Content Include="slides\js\zachary_morgan_timefuture.js" />
+    <Content Include="slides\js\zachary_morgan_toughdecision.js" />
+    <Content Include="slides\resources\johnson_andrew_earth01.svg" />
+    <Content Include="slides\resources\johnson_andrew_earth02.svg" />
+    <Content Include="slides\resources\johnson_andrew_earth03.svg" />
+    <Content Include="slides\resources\johnson_andrew_earth04.svg" />
+    <Content Include="slides\resources\price_missle01.svg" />
+    <Content Include="slides\resources\price_nuclear01.svg" />
+    <Content Include="slides\resources\price_nuclear02.svg" />
+    <Content Include="slides\resources\price_nuclear03.svg" />
+    <Content Include="slides\resources\price_nuclear04.svg" />
+    <Content Include="slides\resources\price_nuclear05.svg" />
+    <Content Include="slides\resources\price_nuclear06.svg" />
+    <Content Include="slides\resources\price_nuclear07.svg" />
+    <Content Include="slides\resources\price_nuclear08.svg" />
+    <Content Include="slides\resources\price_nuclear09.svg" />
+    <Content Include="slides\resources\price_person.svg" />
+    <Content Include="slides\resources\price_smoke.svg" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
