@@ -3,15 +3,15 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
-<g>
-	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="479.582" cy="280.748" rx="2.637" ry="16.6"/>
-	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="485.761" cy="267.394" rx="1.086" ry="9.464"/>
-	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="483.499" cy="301.684" rx="1.241" ry="6.205"/>
-	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="485.797" cy="286.398" rx="1.086" ry="5.662"/>
-	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="472.946" cy="299.222" rx="1.241" ry="8.687"/>
-	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="478.311" cy="305.882" rx="1.319" ry="4.188"/>
-	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="467.953" cy="284.493" rx="1.552" ry="12.876"/>
-	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="472.897" cy="273.314" rx="1.241" ry="9.152"/>
-	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="476.784" cy="257.948" rx="1.436" ry="6.206"/>
+<g id="tele_flash">
+	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="2.94" cy="-0.158" rx="2.637" ry="16.6"/>
+	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="9.119" cy="-13.512" rx="1.086" ry="9.464"/>
+	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="6.857" cy="20.777" rx="1.241" ry="6.205"/>
+	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="9.155" cy="5.492" rx="1.086" ry="5.662"/>
+	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="-3.696" cy="18.316" rx="1.241" ry="8.687"/>
+	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="1.668" cy="24.976" rx="1.319" ry="4.188"/>
+	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="-8.689" cy="3.587" rx="1.552" ry="12.876"/>
+	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="-3.746" cy="-7.592" rx="1.241" ry="9.152"/>
+	<ellipse fill="#348EA3" stroke="#4DC7DB" stroke-miterlimit="10" cx="0.142" cy="-22.958" rx="1.436" ry="6.206"/>
 </g>
 </svg>
