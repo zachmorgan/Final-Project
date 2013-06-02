@@ -1,23 +1,19 @@
 ﻿
-Slides.start = new Slide();
+Slides.zachary_morgan_timefuture = new Slide();
 
-Slides.start.Load = function () {
-    $("button").click(function() {
-        GoToSlide("president");
-    });
-
+Slides.zachary_morgan_timefuture.Load = function () {
     $("p").hide();
 };
 
-Slides.start.Unload = function() {
+Slides.zachary_morgan_timefuture.Unload = function() {
     $("button").unbind("click");
 };
 
-Slides.start.Show = function () {
+Slides.zachary_morgan_timefuture.Show = function () {
     return $("figure").fadeIn().promise();
 };
 
-Slides.start.Hide = function () {
+Slides.zachary_morgan_timefuture.Hide = function () {
     return $("figure").fadeOut().promise();
 };
 
