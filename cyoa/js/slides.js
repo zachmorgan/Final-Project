@@ -111,6 +111,8 @@ function LoadAndShowNextSlide(name) {
             //notify that it is complete and has been shown
             d.resolve();
         });
+    }).fail(function (e) {
+        alert(e);
     });
 
     //allow our caller to know when the slide has finished loading and showing
@@ -125,5 +127,5 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("kaori_price_nuclear");
+    GoToSlide("kay_enojado_newspaper");
 });

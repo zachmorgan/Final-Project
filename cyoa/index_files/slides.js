@@ -83,7 +83,7 @@ function LoadAndShowNextSlide(name) {
     var getJs = $.getScript(jsUrl);
 
     //when all three have completed
-    $.when(getCss, getHtml, getJs).done(function () {
+    $.when(getCss, getHtml, getJs).then(function () {
         
         //update the current slide to the new slide
         currentSlide = Slides[name];
@@ -110,5 +110,5 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("start");
+    GoToSlide("kay_enojado_newspaper");
 });

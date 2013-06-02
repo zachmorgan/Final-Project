@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <circle fill="red" cx="50%" cy="50%" r="30" stroke="black">
+    <set id="show" attributeName="visibility" attributeType="CSS" to="visible"
+         begin="0s; hide.end" dur="1s" fill="freeze"/>
+    <set id="hide" attributeName="visibility" attributeType="CSS" to="hidden"
+         begin="show.end" dur="1s" fill="freeze"/>
+  </circle>
+</svg>​
