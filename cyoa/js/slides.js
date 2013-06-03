@@ -96,7 +96,9 @@ function LoadAndShowNextSlide(name) {
     });
 
     //fetch the javascript with ajax (getScript automatically runs it for us)
-    var getJs = $.getScript(jsUrl);
+    var getJs = $.getScript(jsUrl).fail(function(e) {
+        alert(e);
+    });
 
     //when all three have completed
     $.when(getCss, getHtml, getJs).done(function () {
@@ -125,5 +127,5 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("kaori_price_nuclear");
+    GoToSlide("kaori_price_accept");
 });
