@@ -3,32 +3,37 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
-<path opacity="0.5" fill="#E42C00" d="M479.5,409.5c-134.093,0-248.417,38.5-292.556,93.5h585.111
-	C727.917,448,613.592,409.5,479.5,409.5z"/>
-<rect x="288.5" y="47.5" opacity="0.5" fill="#00FFFF" stroke="#0045FF" stroke-width="3" stroke-miterlimit="10" width="120" height="399"/>
-<rect x="409.5" y="47.5" opacity="0.5" fill="#00FFFF" stroke="#0045FF" stroke-width="3" stroke-miterlimit="10" width="120" height="399"/>
-<rect x="530.5" y="47.5" opacity="0.5" fill="#00FFFF" stroke="#0045FF" stroke-width="3" stroke-miterlimit="10" width="120" height="399"/>
-<rect x="228" y="44" fill="#0045FF" width="58" height="417"/>
-<rect x="228" y="44" fill="#0034BF" width="16" height="417"/>
-<rect x="270" y="44" fill="#0034BF" width="16" height="417"/>
-<g>
-	<rect x="652" y="44" fill="#0045FF" width="58" height="418"/>
-	<rect x="652" y="44" fill="#0034BF" width="16" height="418"/>
-	<rect x="694" y="44" fill="#0034BF" width="16" height="418"/>
+<g id="oval_office">
+	<path opacity="0.5" fill="#E42C00" enable-background="new    " d="M294.001,365.5C159.908,365.5,45.584,404,1.445,459h585.111
+		C542.418,404,428.093,365.5,294.001,365.5z"/>
+	
+		<rect x="103.001" y="3.5" opacity="0.5" fill="#00FFFF" stroke="#0045FF" stroke-width="3" stroke-miterlimit="10" enable-background="new    " width="120" height="399"/>
+	
+		<rect x="224.001" y="3.5" opacity="0.5" fill="#00FFFF" stroke="#0045FF" stroke-width="3" stroke-miterlimit="10" enable-background="new    " width="120" height="399"/>
+	
+		<rect x="345.001" y="3.5" opacity="0.5" fill="#00FFFF" stroke="#0045FF" stroke-width="3" stroke-miterlimit="10" enable-background="new    " width="120" height="399"/>
+	<rect x="42.501" fill="#0045FF" width="58" height="417"/>
+	<rect x="42.501" fill="#0034BF" width="16" height="417"/>
+	<rect x="84.501" fill="#0034BF" width="16" height="417"/>
+	<g>
+		<rect x="466.501" fill="#0045FF" width="58" height="418"/>
+		<rect x="466.501" fill="#0034BF" width="16" height="418"/>
+		<rect x="508.501" fill="#0034BF" width="16" height="418"/>
+	</g>
+	<path fill="#0045FF" d="M161.501,14c0,33.137,26.863,60,60,60c33.137,0,60-26.863,60-60c0-0.335-0.02-0.666-0.025-1h-119.95
+		C161.521,13.334,161.501,13.665,161.501,14z"/>
+	<path fill="#0045FF" d="M283.501,14c0,33.137,26.863,60,60,60s60-26.863,60-60c0-0.335-0.02-0.666-0.025-1H283.526
+		C283.521,13.334,283.501,13.665,283.501,14z"/>
+	<path fill="#0045FF" d="M404.501,14c0,33.137,26.863,60,60,60s60-26.863,60-60c0-0.335-0.02-0.666-0.025-1H404.526
+		C404.521,13.334,404.501,13.665,404.501,14z"/>
+	<path fill="#0045FF" d="M42.501,14c0,33.137,26.863,60,60,60s60-26.863,60-60c0-0.335-0.02-0.666-0.025-1H42.526
+		C42.521,13.334,42.501,13.665,42.501,14z"/>
+	<g>
+		<circle fill="#8C6239" cx="289.001" cy="266.5" r="26.5"/>
+		<ellipse fill="#8C6239" cx="290.501" cy="346.5" rx="38" ry="60.5"/>
+	</g>
+	<rect x="42.501" fill="#0045FF" width="482" height="25"/>
+	<rect x="108.501" y="371" fill="#8C6239" width="378" height="103"/>
+	<polygon fill="#402914" points="128.501,346 82.501,396 510.501,396 464.501,346 	"/>
 </g>
-<path fill="#0045FF" d="M347,58c0,33.137,26.863,60,60,60s60-26.863,60-60c0-0.335-0.02-0.666-0.025-1H347.025
-	C347.02,57.334,347,57.665,347,58z"/>
-<path fill="#0045FF" d="M469,58c0,33.137,26.863,60,60,60s60-26.863,60-60c0-0.335-0.02-0.666-0.025-1H469.025
-	C469.02,57.334,469,57.665,469,58z"/>
-<path fill="#0045FF" d="M590,58c0,33.137,26.863,60,60,60s60-26.863,60-60c0-0.335-0.02-0.666-0.025-1H590.025
-	C590.02,57.334,590,57.665,590,58z"/>
-<path fill="#0045FF" d="M228,58c0,33.137,26.863,60,60,60s60-26.863,60-60c0-0.335-0.02-0.666-0.025-1H228.025
-	C228.02,57.334,228,57.665,228,58z"/>
-<g>
-	<circle fill="#8C6239" cx="474.5" cy="310.5" r="26.5"/>
-	<ellipse fill="#8C6239" cx="476" cy="390.5" rx="38" ry="60.5"/>
-</g>
-<rect x="228" y="44" fill="#0045FF" width="482" height="25"/>
-<rect x="294" y="415" fill="#8C6239" width="378" height="103"/>
-<polygon fill="#402914" points="314,390 268,440 696,440 650,390 "/>
 </svg>

@@ -134,9 +134,19 @@
     <Content Include="js\jquery.svganim.min.js" />
     <Content Include="js\slides.js" />
     <Content Include="js\utils.js" />
+    <Content Include="slides\css\jameson_nuss_accident.css" />
     <Content Include="slides\css\jameson_nuss_time.css" />
+    <Content Include="slides\css\johnson_andrew_earth_destroyed.css" />
+    <Content Include="slides\css\johnson_andrew_time_travel.css" />
+    <Content Include="slides\css\kaori_price_nuclear.css" />
+    <Content Include="slides\css\kay_enojado_newspaper.css" />
+    <Content Include="slides\css\kay_enojado_still_too_late.css" />
+    <Content Include="slides\css\kc_forsyth_timeiscritical.css" />
+    <Content Include="slides\css\kc_forsyth_training.css" />
     <Content Include="slides\css\president.css" />
     <Content Include="slides\css\start.css" />
+    <Content Include="slides\css\zachary_morgan_timefuture.css" />
+    <Content Include="slides\css\zachary_morgan_toughdecision.css" />
     <Content Include="slides\html\jameson_nuss_accident.html" />
     <Content Include="slides\html\jameson_nuss_time.html" />
     <Content Include="slides\html\johnson_andrew_earth_destroyed.html" />
@@ -158,6 +168,7 @@
     <Content Include="slides\js\kaori_price_nuclear.js" />
     <Content Include="slides\js\president.js" />
     <Content Include="slides\js\start.js" />
+    <Content Include="slides\js\svgtemplate.js" />
     <Content Include="slides\js\zachary_morgan_timefuture.js" />
     <Content Include="slides\js\zachary_morgan_toughdecision.js" />
     <Content Include="slides\resources\johnson_andrew_earth01.svg" />

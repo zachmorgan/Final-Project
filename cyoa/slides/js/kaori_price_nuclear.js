@@ -29,6 +29,9 @@ Slides.kaori_price_nuclear.Unload = function () {
 Slides.kaori_price_nuclear.Show = function () {
 
     var smokey = $("g#smoke");
+    var missile = $("g#missile01");
+
+    missile.remove();
 
     var smokeyPromises = [];
 
@@ -54,9 +57,8 @@ Slides.kaori_price_nuclear.Show = function () {
     smokey.remove();
 
     $.when.apply($, smokeyPromises).then(function () {
-        var missile = $("g#missile01");
 
-        for (var i = 0; i < 1000; i++) {
+        for (var i = 0; i < 500; i++) {
             var c = missile.clone();
 
             var start = "translate({x},{y}) rotate(45)".supplant({ x: 400 + Math.random() * 800, y: 400 + Math.random() * 400 });

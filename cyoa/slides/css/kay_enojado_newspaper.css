@@ -1,3 +1,9 @@
-figure{
-background-color: #999999;
+figure {
+margin: 0;
+}
+
+#svgcontainer{
+	width: 620px;
+	height: 460px;
+
 }
