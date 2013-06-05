@@ -10,7 +10,8 @@ Slides.kc_forsyth_training.Load = function () {
 
         var svgsToLoad = [];
 
-        //svgsToLoad.push(LoadSvg(svg, "/slides/resources/price_missle01.svg"));
+        svgsToLoad.push(LoadSvg(svg, "/slides/resources/kc_forsyth_fatman.svg"));
+        svgsToLoad.push(LoadSvg(svg, "/slides/resources/kc_forsyth_bruce.svg"));
 
         $.when.apply($, svgsToLoad).done(function () {
             d.resolve();
