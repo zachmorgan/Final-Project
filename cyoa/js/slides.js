@@ -127,5 +127,5 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("kaori_price_accept");
+    GoToSlide("johnson_andrew_earth_destroyed");
 });
