@@ -119,7 +119,6 @@
     <Content Include="slides\css\zachary_morgan_timefuture.css" />
     <Content Include="slides\css\zachary_morgan_toughdecision.css" />
     <Content Include="web.config" />
-    <Content Include="slides\resources\price_missle01.ai" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
