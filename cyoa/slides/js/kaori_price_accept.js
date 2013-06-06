@@ -1,14 +1,17 @@
 ﻿
 Slides.kaori_price_accept = new Slide();
 
+var SVG = null;
+
 Slides.kaori_price_accept.Load = function () {
 
     var d = $.Deferred();
 
     //Make sure to add <div id="svgcontainer"></div> 
     $("#svgcontainer").svg(function (svg) {
-
         var svgsToLoad = [];
+
+        SVG = svg;
 
         svgsToLoad.push(LoadSvg(svg, "/slides/resources/price_person.svg"));
 
@@ -24,32 +27,47 @@ Slides.kaori_price_accept.Unload = function () {
 };
 
 Slides.kaori_price_accept.Show = function () {
-    var person = $("g#person");
-    person.attr("transform", "translate(00,00) scale(0.2,0.2)");
+
+    SVG.configure({ viewBox: "0 0 620 460" })
+
+    var person = $("g#person").detach();
+
+    var radius = 180;
+
+    var centerX = 310;
+    var centerY = 230;
+
+    var incDeg = (2 * Math.PI) / 18;
 
 
-    //for (var i = 0; i < 18; i++) {
+    var g = SVG.group();
 
-    //    var c = person.clone();
+    for (var i = 0; i < 18; i++) {
+        var c = person.clone();
 
-    //    c.attr("opacity", "1");
+        var posX = (Math.cos(incDeg * i) * radius) + centerX;
+        var posY = (Math.sin(incDeg * i) * radius) + centerY;
 
-    //    c.appendTo($("svg"));
+        var rot = ((incDeg * i) + Math.PI/2) * (180 / Math.PI)
 
-    //    var rX = (Math.random() * 620);
-    //    var rY = (Math.random() * 460);
-
-    //    var transform = "translate({x},{y}) rotate({r}) scale({sX},{sY})".supplant({ x: rX, y: rY, r: 360 * Math.random(), sX: 1, sY: 1 });
-
-    //    var promise = c.animate({ svgTransform: transform, svgOpacity: "0" }, 1000 * ((Math.random() * 5) + 2)).promise();
-
-    //    smokeyPromises.push(promise);
-    //}
+        c.attr("transform", "translate({x},{y}) rotate({r})".supplant({ x: posX, y: posY, r: rot}));
 
 
-    var d = $.Deferred();
-    d.resolve();
-    return d.promise();
+        c.appendTo(g);
+    }
+
+    $(g).attr("transform", "rotate(0, 310, 230)");
+
+
+    function harmony() {
+        $(g).animate({ svgTransform: "rotate(360, 310, 230)" }, 5000, "linear", function () {
+            $(g).attr("transform", "rotate(0, 310, 230)");
+            harmony();
+        })
+    }
+    harmony();
+
+    $(g).find("*").animate({ svgFill: "#000" }, 5000)
 };
 
 Slides.kaori_price_accept.Hide = function () {
