@@ -12,9 +12,9 @@ Slides.jameson_nuss_time.Load = function () {
 
         var svgsToLoad = [];
 
-        //svgsToLoad.push(LoadSvg(svg, "/slides/resources/jameson_nuss_shuttle_space.svg"));
+        svgsToLoad.push(LoadSvg(svg, "/slides/resources/jameson_nuss_shuttle_space.svg"));
         svgsToLoad.push(LoadSvg(svg, "/slides/resources/jameson_nuss_shuttle_takeoff.svg"));
-        //svgsToLoad.push(LoadSvg(svg, "/slides/resources/jameson_nuss_satellite.svg"));
+        svgsToLoad.push(LoadSvg(svg, "/slides/resources/jameson_nuss_device.svg"));
 
 
         $.when.apply($, svgsToLoad).done(function () {
@@ -34,6 +34,8 @@ Slides.jameson_nuss_time.Show = function () {
 
 
     var shuttletakeoff = $("g#takeoff").detach().appendTo("svg");
+    var shuttlespace = $("g#shuttlespace").detach().appendTo("svg");
+    var satellite = $("g#device").detach().appendTo("svg");
     //var glob = $("g#Greenglob");
     //var outline = $("g#Outline").detach().appendTo("svg");
     //var caution = $("g#Tape").detach().appendTo("svg");
@@ -42,7 +44,8 @@ Slides.jameson_nuss_time.Show = function () {
 
 
     shuttletakeoff.attr("transform", "translate(400,230) scale(1,1)");
-
+    shuttlespace.attr("transform", "translate(100,130) scale(1,1)");
+    satellite.attr("transform", "translate(100,130) scale(1,1)");
 
     d.resolve();
     return d.promise();
