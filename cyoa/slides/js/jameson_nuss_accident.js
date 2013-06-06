@@ -29,14 +29,25 @@ Slides.jameson_nuss_accident.Unload = function () {
 
 Slides.jameson_nuss_accident.Show = function () {
     var d = $.Deferred();
+    $("svg").attr("overflow", "hidden");
 
-    var barrel = $("g#Barrel");
+    var barrel = $("g#Barrel").detach().appendTo("svg");
     var glob = $("g#Greenglob");
+    var outline = $("g#Outline").detach().appendTo("svg");
+    var caution = $("g#Tape").detach().appendTo("svg");
 
-    barrel.attr("transform", "translate(500,230) scale(5,5)");
+
+
+
+    barrel.attr("transform", "translate(200,230) scale(2,2)");
+    glob.attr("opacity", 0.3);
+    outline.attr("transform", "translate(550,330) scale(1.5,1.5)");
+    caution.attr("transform", "translate(200,430) scale(2,1.5)");
+
+
 
     function glow() {
-        glob.animate({ svgOpacity: 0 }, 2000).animate({ svgOpacity: 1 }, 2000, glow);
+        glob.animate({ svgOpacity: 0.3 }, 2000).animate({ svgOpacity: 1 }, 2000, glow);
     }
 
     glow();
