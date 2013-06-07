@@ -57,11 +57,11 @@ Slides.jameson_nuss_time.Show = function () {
     });
 
 
-    function glow() {
-        flame.animate({ svgOpacity: 0.3 }, 2000).animate({ svgOpacity: 1 }, 2000, glow);
+    function fire() {
+        flame.animate({ svgOpacity: 0.3 }, 2000).animate({ svgOpacity: 1 }, 2000, fire);
     }
 
-    glow();
+    fire();
 
 
     d.resolve();
