@@ -58,3 +58,12 @@ button:active {
     border-bottom: 3px solid #bcbf56;
     color: #5a5c29;
 }
+
+div#svgcontainer {
+    width:620px;
+    height:460px;
+}
+
+figure {
+    margin: 0;
+}

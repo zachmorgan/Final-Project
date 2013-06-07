@@ -12,7 +12,8 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>cyoa_2010</RootNamespace>
     <AssemblyName>cyoa_2010</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -47,25 +48,61 @@
     <Reference Include="System.EnterpriseServices" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
-    <Reference Include="System.Web.ApplicationServices" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="web.config" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="css\style.css" />
     <Content Include="index.html" />
     <Content Include="js\slides.js" />
+    <Content Include="slides\css\jameson_nuss_accident.css" />
+    <Content Include="slides\css\jameson_nuss_time.css" />
+    <Content Include="slides\css\johnson_andrew_earth_destroyed.css" />
+    <Content Include="slides\css\johnson_andrew_time_travel.css" />
     <Content Include="slides\css\kaori_price_nuclear.css" />
+    <Content Include="slides\css\kay_enojado_newspaper.css" />
+    <Content Include="slides\css\kay_enojado_still_too_late.css" />
+    <Content Include="slides\css\kc_forsyth_timeiscritical.css" />
+    <Content Include="slides\css\kc_forsyth_training.css" />
     <Content Include="slides\css\president.css" />
     <Content Include="slides\css\start.css" />
+    <Content Include="slides\css\zachary_morgan_timefuture.css" />
+    <Content Include="slides\css\zachary_morgan_toughdecision.css" />
+    <Content Include="slides\html\jameson_nuss_accident.html" />
+    <Content Include="slides\html\jameson_nuss_time.html" />
+    <Content Include="slides\html\johnson_andrew_earth_destroyed.html" />
+    <Content Include="slides\html\johnson_andrew_time_travel.html" />
+    <Content Include="slides\html\kaori_price_accept.html" />
     <Content Include="slides\html\kaori_price_nuclear.html" />
+    <Content Include="slides\html\kay_enojado_newspaper.html" />
+    <Content Include="slides\html\kay_enojado_still_too_late.html" />
+    <Content Include="slides\html\kc_forsyth_timeiscritical.html" />
+    <Content Include="slides\html\kc_forsyth_training.html" />
     <Content Include="slides\html\president.html" />
+    <Content Include="slides\html\president_2.html" />
     <Content Include="slides\html\start.html" />
+    <Content Include="slides\html\zachary_morgan_timefuture.html" />
+    <Content Include="slides\html\zachary_morgan_toughdecison.html" />
+    <Content Include="slides\js\blank.js" />
+    <Content Include="slides\js\jameson_nuss_accident.js" />
+    <Content Include="slides\js\jameson_nuss_time.js" />
+    <Content Include="slides\js\johnson_andrew_earth_destroyed.js" />
+    <Content Include="slides\js\johnson_andrew_time_travel.js" />
+    <Content Include="slides\js\kaori_price_accept.js" />
     <Content Include="slides\js\kaori_price_nuclear.js" />
+    <Content Include="slides\js\kay_enojado_newspaper.js" />
+    <Content Include="slides\js\kay_enojado_still_too_late.js" />
+    <Content Include="slides\js\kc_forsyth_timeiscritical.js" />
+    <Content Include="slides\js\kc_forsyth_training.js" />
     <Content Include="slides\js\president.js" />
     <Content Include="slides\js\start.js" />
+    <Content Include="slides\js\svgtemplate.js" />
+    <Content Include="slides\js\zachary_morgan_timefuture.js" />
+    <Content Include="slides\js\zachary_morgan_toughdecision.js" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
@@ -75,7 +112,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>50948</DevelopmentServerPort>
+          <DevelopmentServerPort>53446</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>
