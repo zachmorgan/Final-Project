@@ -127,5 +127,5 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("kaori_price_accept");
+    GoToSlide("jameson_nuss_time");
 });
