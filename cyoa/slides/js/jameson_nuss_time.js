@@ -1,4 +1,4 @@
-// jameson_nuss_time
+ // jameson_nuss_time
 
 
 Slides.jameson_nuss_time = new Slide();
@@ -14,7 +14,7 @@ Slides.jameson_nuss_time.Load = function () {
 
         svgsToLoad.push(LoadSvg(svg, "/slides/resources/jameson_nuss_shuttle_space.svg"));
         svgsToLoad.push(LoadSvg(svg, "/slides/resources/jameson_nuss_shuttle_takeoff.svg"));
-        svgsToLoad.push(LoadSvg(svg, "/slides/resources/jameson_nuss_device.svg"));
+        svgsToLoad.push(LoadSvg(svg, "/slides/resources/jameson_nuss_travelback_text.svg"));
 
 
         $.when.apply($, svgsToLoad).done(function () {
@@ -35,17 +35,34 @@ Slides.jameson_nuss_time.Show = function () {
 
     var shuttletakeoff = $("g#takeoff").detach().appendTo("svg");
     var shuttlespace = $("g#shuttlespace").detach().appendTo("svg");
-    var satellite = $("g#device").detach().appendTo("svg");
-    //var glob = $("g#Greenglob");
-    //var outline = $("g#Outline").detach().appendTo("svg");
-    //var caution = $("g#Tape").detach().appendTo("svg");
-    //var rushtext = $("g#rushtext").detach().appendTo("svg");
+    var flame = $("g#flames");
+    var travelbacktext = $("g#travelback").detach().appendTo("svg");
 
 
+  
+    travelbacktext.attr("transform", "translate(-450,230) scale(1,1)").attr("opacity", 1);
+    shuttletakeoff.attr("transform", "translate(400,400) scale(1,1)").attr("opacity", 0);
+    shuttlespace.attr("transform", "translate(100,130) scale(1,1)").attr("opacity", 0);
+    flame.attr("opacity", 0.3);
 
-    shuttletakeoff.attr("transform", "translate(400,230) scale(1,1)");
-    shuttlespace.attr("transform", "translate(100,130) scale(1,1)");
-    satellite.attr("transform", "translate(100,130) scale(1,1)");
+
+    shuttletakeoff.animate({ svgTransform: "translate(400,100)"},2000);
+
+    travelbacktext.animate({ svgTransform: "translate(400,230)" }, 2000).delay(2000).animate({ svgOpacity: 0 }, 2000, function () {
+
+        shuttletakeoff.animate({ svgOpacity: 1 }, 2000);
+        shuttlespace.animate({ svgOpacity: 1 }, 2000);
+       
+
+    });
+
+
+    function glow() {
+        flame.animate({ svgOpacity: 0.3 }, 2000).animate({ svgOpacity: 1 }, 2000, glow);
+    }
+
+    glow();
+
 
     d.resolve();
     return d.promise();
