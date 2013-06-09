@@ -127,5 +127,7 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("johnson_andrew_time_travel");
+
+    GoToSlide("kay_enojado_still_too_late");
+
 });

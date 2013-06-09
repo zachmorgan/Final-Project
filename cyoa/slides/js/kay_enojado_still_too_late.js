@@ -35,6 +35,9 @@ Slides.kay_enojado_still_too_late.Show = function () {
     var earthexploding = $("g#earthexploding");
     var missionfailed = $("g#missionfailed");
     var asteroid = $("g#asteroid");
+    var myAudio = document.getElementById('audio2')
+    myAudio.oncanplaythrough = function () { this.play()}; 
+    
     earth.attr("transform", "translate(480,300) scale(1.5,1.5)");
     earthexploding.attr("transform", "translate(480,300) scale(1.5,1.5)").hide();
     missionfailed.attr("transform", "translate(480,300) scale(1.5,1.5)").hide();
@@ -42,13 +45,18 @@ Slides.kay_enojado_still_too_late.Show = function () {
 
     $('svg').append(missionfailed);
 
-    asteroid.animate({ svgTransform: 'translate(480,300) scale(1.5,1.5)'}, 2000);
-    earthexploding.attr("transform", "translate(500,320) scale(1.5,1.5)").fadeIn(7500);
-    earth.attr("transform", "translate(480,300) scale(1.5,1.5)").fadeOut(5000);
-    asteroid.animate({ svgTransform: 'translate(480,300) scale(1.5,1.5)'}).fadeOut(4000);
+    asteroid.animate({ svgTransform: 'translate(480,300) scale(1.5,1.5)'}, 1500);
+    earthexploding.attr("transform", "translate(500,320) scale(1.5,1.5)").fadeIn(6000);
+    earth.attr("transform", "translate(480,300) scale(1.5,1.5)").fadeOut(4000);
+    asteroid.animate({ svgTransform: 'translate(480,300) scale(1.5,1.5)'}).fadeOut(500);
+    missionfailed.attr("transform", "translate(480,300) scale(1.5,1.5)").fadeIn(10000);
+
+
     var d = $.Deferred();
 	d.resolve();
 	return d.promise();
+
+
 };
 
 Slides.kay_enojado_still_too_late.Hide = function () {
