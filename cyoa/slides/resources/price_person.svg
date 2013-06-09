@@ -2,29 +2,29 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<g>
-	<rect x="43.141" y="30.271" fill="#FFFFFF" width="12.369" height="14.397"/>
-	<path fill="#FFFFFF" d="M60.997,11.412C58.665,3.279,49.29,4.107,49.29,4.107v0.05c-0.557-0.041-9.421-0.57-11.68,7.307
-		c-2.332,8.133,1.606,24.089,11.76,24.089v-0.059C59.424,35.355,63.319,19.509,60.997,11.412z"/>
+	 width="56.186px" height="100px" viewBox="0 0 56.186 100" enable-background="new 0 0 56.186 100" xml:space="preserve">
+<g id="person">
+	<ellipse fill="#FFFFFF" cx="-0.145" cy="-86.833" rx="10.701" ry="11.489"/>
+	<rect x="-3.759" y="-76.479" fill="#FFFFFF" width="7.758" height="15.227"/>
+	<rect x="-9.938" y="-7.583" fill="#FFFFFF" width="9.019" height="3.503"/>
+	<rect x="1.085" y="-7.583" fill="#FFFFFF" width="9.018" height="3.503"/>
+	<rect x="-9.938" y="-40.563" fill="#0000FF" width="9.019" height="32.958"/>
+	<rect x="1.085" y="-40.563" fill="#0000FF" width="9.018" height="32.958"/>
+	<rect x="-12.27" y="-1.53" fill="#FF0000" width="11.341" height="4.53"/>
+	<rect x="1.085" y="-1.53" fill="#FF0000" width="11.341" height="4.53"/>
 	<g>
-		<path fill="#FFFFFF" d="M37.308,18.989c0,0-1.305-1.396-2.041-0.483c-0.737,0.914-0.113,3.063,0.851,4.191
-			c0.962,1.127,1.075,1.826,1.926,1.127L37.308,18.989z"/>
-		<path fill="#FFFFFF" d="M61.413,18.989c0,0,1.303-1.396,2.041-0.483c0.736,0.914,0.113,3.063-0.852,4.191
-			c-0.964,1.127-1.077,1.826-1.926,1.127L61.413,18.989z"/>
+		<rect x="1.085" y="-4.06" fill="#FF4000" width="9.018" height="2.51"/>
+		<rect x="-9.947" y="-4.06" fill="#FF4000" width="9.018" height="2.51"/>
 	</g>
-	<rect x="39.815" y="41.701" fill="#FFFFFF" width="18.949" height="32.215"/>
-	<rect x="39.815" y="73.262" fill="#FFFFFF" width="8.527" height="25.404"/>
-	<rect x="50.238" y="73.262" fill="#FFFFFF" width="8.527" height="25.404"/>
+	<circle fill="#FFFFFF" cx="24.688" cy="-45.819" r="3.507"/>
 	<g>
+		<rect x="-3.759" y="-71.468" fill="#FFBF00" width="7.758" height="10.216"/>
+		<rect x="-9.938" y="-62.01" fill="#FFBF00" width="20.041" height="24.645"/>
 		
-			<rect x="49.59" y="45.297" transform="matrix(0.7071 0.7071 -0.7071 0.7071 52.5094 -29.5363)" fill="#FFFFFF" width="24.634" height="6.633"/>
-		<circle fill="#FFFFFF" cx="72.555" cy="59.261" r="3.316"/>
-	</g>
-	<g>
+			<rect x="-3.191" y="-62.074" transform="matrix(0.7071 0.7071 -0.7071 0.7071 -37.9159 -25.5957)" fill="#FFBF00" width="30.259" height="7.015"/>
 		
-			<rect x="24.414" y="45.298" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 97.0802 57.0148)" fill="#FFFFFF" width="24.634" height="6.631"/>
-		<circle fill="#FFFFFF" cx="26.083" cy="59.261" r="3.316"/>
+			<rect x="-26.825" y="-62.034" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 -61.4442 -91.6046)" fill="#FFBF00" width="30.15" height="7.013"/>
 	</g>
+	<circle fill="#FFFFFF" cx="-24.46" cy="-45.819" r="3.507"/>
 </g>
 </svg>
