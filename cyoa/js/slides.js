@@ -128,6 +128,20 @@ $(function () {
 
     //go to the start slide
 
-    GoToSlide("kay_enojado_still_too_late");
+    $("#button1").click(function() {
+        var target = $(this).data("slide");
+        if (target != null) {
+            GoToSlide(target);
+        }
+    });
+
+    $("#button2").click(function() {
+        var target = $(this).data("slide");
+        if (target != null) {
+            GoToSlide(target);
+        }
+    });
+
+    GoToSlide("kaori_price_accept");
 
 });
