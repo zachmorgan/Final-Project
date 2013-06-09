@@ -125,5 +125,5 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("johnson_andrew_earth_destroyed");
+    GoToSlide("zachary_morgan_timefuture");
 });
