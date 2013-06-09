@@ -3,7 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
-<g>
+<g id ='earthexploding'>
 	<g>
 		<path fill="#F5F5F5" d="M130.181-7.726c0,83.711-69.602,151.572-155.46,151.572c-74.92,0-155.46-67.861-155.46-151.572
 			c0-83.712,69.603-151.573,155.46-151.573C60.58-159.299,130.181-91.438,130.181-7.726z"/>
