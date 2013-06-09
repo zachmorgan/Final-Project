@@ -28,7 +28,7 @@ Slides.kaori_price_accept.Unload = function () {
 
 Slides.kaori_price_accept.Show = function () {
 
-    SVG.configure({ viewBox: "0 0 620 460" })
+    SVG.configure({ viewBox: "0 0 620 460" });
 
     var person = $("g#person").detach();
 
@@ -44,13 +44,14 @@ Slides.kaori_price_accept.Show = function () {
 
     var g = SVG.group();
 
+    
     for (var i = 0; i < 18; i++) {
         var c = person.clone();
-        c.attr("opacity", "0")
+        c.attr("opacity", "0");
         var posX = (Math.cos(incDeg * i) * radius) + centerX;
         var posY = (Math.sin(incDeg * i) * radius) + centerY;
 
-        var rot = ((incDeg * i) + Math.PI/2) * (180 / Math.PI)
+        var rot = ((incDeg * i) + Math.PI / 2) * (180 / Math.PI);
        
         c.attr("transform", "translate({x},{y}) rotate({r})".supplant({ x: posX, y: posY, r: rot}));
         
@@ -59,18 +60,23 @@ Slides.kaori_price_accept.Show = function () {
         c.appendTo(g);
     }
 
+    $(g).find("*").attr("fill", "#fff");
+
+    var asteroid = SVG.circle(20, 40, 10, { fill: "#000" });
+    $(asteroid).animate({ svgCx: 310, svgCy: 230, svgR: 40 }, 8500);
     $(g).attr("transform", "rotate(0, 310, 230)");
     function harmony() {
-        $(g).animate({ svgTransform: "rotate(360, 310, 230)" }, 5000, "linear", function () {
+        $(g).animate({ svgTransform: "rotate(360, 310, 230)" }, 8000, "linear", function() {
             $(g).attr("transform", "rotate(0, 310, 230)");
             harmony();
-        })
+        });
     }
 
     setTimeout(function () {
         harmony();
-        $(g).find("*").delay(3000).animate({ svgFill: "#fff" }, 5000).animate({ svgFill: "#f00" }, 5000);
-        $(earth).delay(3000).animate({ svgFill: "#fff" }, 3000).animate({ svgFill: "#f00" }, 3000);
+        $(g).find("*").delay(1000).animate({ svgFill: "#fff" }, 5000).animate({ svgFill: "#f00" }, 6000);
+        $(earth).delay(1000).animate({ svgFill: "#000"}, 5000).animate({ svgFill: "#000" }, 5000);
+        $(asteroid).delay(10).animate({ svgR: 100, svgFill: "#f00" }, 2000);
     }, 250 * 18);
 
     
