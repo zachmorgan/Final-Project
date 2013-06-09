@@ -127,5 +127,5 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("zachary_morgan_toughdecision");
+    GoToSlide("kay_enojado_still_too_late");
 });
