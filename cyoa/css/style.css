@@ -7,6 +7,9 @@ h1 {
     margin:20px auto 15px auto;
     text-align:center;
     font-size:2em;
+    background-color: #1a1a1a;
+    width: 640px;
+    
 }
 div#wrapper {
     width:640px;
@@ -20,11 +23,13 @@ div#container {
     margin: 0 auto 20px auto;
 }
 div#text {
-    width:60%;
+    width:55%;
+    padding: 10px;
     float:left;
     font-size: 1em;
     line-height:1.5em;
     color:#999999;
+    background-color: #1a1a1a;
 }
 div#text p {
     margin:0;
@@ -66,4 +71,10 @@ div#svgcontainer {
 
 figure {
     margin: 0;
+    background-color: #1a1a1a;
+}
+
+.star img {
+    width: 100%;
+    height: 100%;
 }
