@@ -3,7 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
-<g>
+<g id="asteroid">
 	<path fill="#FFDF16" d="M-45.436-20.294c0,0,35.391-6.179,44.38,11.797c0,0,4.098-2.313,0-6.411
 		c-4.098-4.097-13.294-8.839-18.563-8.172c-14.018,1.777-25.106-3.541-28.064-12.943c0,0,6.18,10.75,20.223,8.988
 		c6.307-0.79,9.551-5.617,14.045-2.809l-4.494-8.426c0,0,14.413,12.194,26.025,12.194s23.586,14.328,27.8,18.541

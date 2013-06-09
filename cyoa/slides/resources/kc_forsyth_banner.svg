@@ -3,6 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="591.34px" height="79px" viewBox="0 0 591.34 79" enable-background="new 0 0 591.34 79" xml:space="preserve">
+<g id="banner">
 <g id="Guides" display="none">
 </g>
 <g id="_x31_2_Col_Grid" display="none" opacity="0.1" enable-background="new    ">
@@ -60,4 +61,5 @@
 		<text transform="matrix(0.837 0 0 1 11.0361 55.3848)" font-family="'OCRAStd'" font-size="41.867">ASTEROID KILLER SCHOOL </text>
 	</g>
 </g>
+ </g>
 </svg>

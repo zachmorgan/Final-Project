@@ -4,6 +4,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="87.486px" height="124.303px" viewBox="0 0 87.486 124.303" enable-background="new 0 0 87.486 124.303"
 	 xml:space="preserve">
+
+<g id="man4"> 
 <g id="Guides" display="none">
 </g>
 <g id="_x31_2_Col_Grid" display="none" opacity="0.1" enable-background="new    ">
@@ -72,5 +74,7 @@
 		<circle fill="#808184" stroke="#231F20" stroke-miterlimit="10" cx="57.063" cy="93.26" r="3"/>
 		<circle fill="#808184" stroke="#231F20" stroke-miterlimit="10" cx="30.423" cy="93.26" r="3"/>
 	</g>
+</g>
+  
 </g>
 </svg>

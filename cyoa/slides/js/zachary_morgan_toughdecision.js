@@ -13,19 +13,6 @@ Slides.zachary_morgan_toughdecision = new Slide();
 Slides.zachary_morgan_toughdecision.Load = function () {
 	var d = $.Deferred();
 
-    $("#svgcontainer").svg(function (svg) {
-
-        Slides.zachary_morgan_toughdecision.svg = svg;
-
-        var svgsToLoad = [];
-
-        svgsToLoad.push(LoadSvg(svg, "/slides/resources/morgan_ovaloffice.svg"));
-
-        $.when.apply($, svgsToLoad).done(function () {
-            d.resolve();
-        });
-    });
-
     return d.promise();
 	
     $("p").hide();

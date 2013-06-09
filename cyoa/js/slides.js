@@ -79,7 +79,7 @@ function LoadAndShowNextSlide(name) {
         $("#container").append(data);
 
         var text = $("#container").find("article");
-        $("#text").text(text.text());
+        $("#text").html(text.html());
         text.remove();
 
         var button1 = $("#container").find("button:first");
@@ -127,5 +127,7 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("jameson_nuss_time");
+
+    GoToSlide("kay_enojado_still_too_late");
+
 });
