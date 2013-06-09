@@ -127,5 +127,5 @@ $(function () {
     });
 
     //go to the start slide
-    GoToSlide("jameson_nuss_time");
+    GoToSlide("zachary_morgan_toughdecision");
 });
