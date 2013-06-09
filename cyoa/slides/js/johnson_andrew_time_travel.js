@@ -59,7 +59,8 @@ Slides.johnson_andrew_time_travel.Show = function () {
     var yellowlight = $("rect#yellowlight");
     var redlight = $("circle#redlight");
 
-
+    var myAudio = document.getElementById('audio1')
+    myAudio.oncanplaythrough = function () { this.play(); }
 
 
     light.attr("transform", "translate(-180,-160)");
