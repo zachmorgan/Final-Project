@@ -3,6 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="173.5px"
 	 height="121.84px" viewBox="0 0 173.5 121.84" enable-background="new 0 0 173.5 121.84" xml:space="preserve">
+ <g id="fatman">
 <g id="Guides" display="none">
 </g>
 <g id="_x31_2_Col_Grid" display="none" opacity="0.1" enable-background="new    ">
@@ -84,5 +85,7 @@
 		<line fill="none" stroke="#221F1F" stroke-miterlimit="10" x1="133.911" y1="71.457" x2="155.387" y2="83.253"/>
 		<line fill="none" stroke="#221F1F" stroke-miterlimit="10" x1="119.175" y1="97.346" x2="139.5" y2="109.674"/>
 	</g>
+</g>
+   
 </g>
 </svg>
