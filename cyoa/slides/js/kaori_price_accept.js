@@ -24,6 +24,9 @@ Slides.kaori_price_accept.Load = function () {
 };
 
 Slides.kaori_price_accept.Unload = function () {
+    $("audio").each(function () {
+        this.pause();
+    });
 };
 
 Slides.kaori_price_accept.Show = function () {
