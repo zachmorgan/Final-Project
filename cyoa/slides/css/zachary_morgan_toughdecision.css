@@ -6,3 +6,11 @@
 figure {
 	margin: 0;
 }
+
+div#office {
+    z-index: 1;
+}
+
+div#flag {
+    z-index: 2;
+}
