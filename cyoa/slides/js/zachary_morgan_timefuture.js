@@ -26,7 +26,6 @@ Slides.zachary_morgan_timefuture.Load = function () {
 };
 
 Slides.zachary_morgan_timefuture.Unload = function() {
-    $("button").unbind("click");
 };
 
 Slides.zachary_morgan_timefuture.Show = function () {
@@ -41,6 +40,9 @@ Slides.zachary_morgan_timefuture.Show = function () {
     topBit.attr("opacity", "1");
     midBit.attr("opacity", "1");
     bottomBit.attr("opacity", "1");
+
+    flash.attr("transform", "translate(-1000, 0)");
+    traveler.attr("transform", "translate(-1000, 0)");
     //flash.attr("opacity", "0");
     //traveler.attr("opacity", "0");
          
@@ -57,7 +59,7 @@ Slides.zachary_morgan_timefuture.Show = function () {
     flash.attr("transform", "opacity(0) translate(700,125) scale(1.5,1.5) rotate(345)");
     flash.delay(7900).fadeIn("slow").animate({ svgTransform: "opacity(1) translate(700,125) scale(1.5,1.5) rotate(345)" }, 500);
 
-    traveler.attr("transform", "opacity(0) translate(700,125) scale(1.5,1.5) rotate(345)");
+    traveler.attr("transform", "opacity(0) translate(-1000,125) scale(1.5,1.5) rotate(345)");
     traveler.delay(8500).fadeIn("slow").animate({ svgTransform: "opacity(1) translate(700,125) scale(1.5,1.5) rotate(345)" }, 500);
 
     flash.attr("transform", "opacity(0) translate(700,125) scale(1.5,1.5) rotate(345)");

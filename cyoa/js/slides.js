@@ -127,8 +127,7 @@ $(function () {
     });
 
     //go to the start slide
-
-    $("#button1").click(function() {
+    $("#button1").click(function () {
         var target = $(this).data("slide");
         if (target != null) {
             GoToSlide(target);
