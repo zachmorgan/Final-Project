@@ -173,6 +173,7 @@
     <Content Include="slides\resources\morgan_timetraveler.svg" />
     <Content Include="slides\resources\morgan_usflag.gif" />
     <Content Include="slides\resources\siren.mp3" />
+    <Content Include="slides\resources\start.svg" />
     <Content Include="web.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
