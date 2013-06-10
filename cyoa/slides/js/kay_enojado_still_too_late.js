@@ -27,6 +27,9 @@ Slides.kay_enojado_still_too_late.Load = function () {
 };
 
 Slides.kay_enojado_still_too_late.Unload = function() {
+    $('audio').each(function (){
+        this.pause();
+    });
 };
 
 Slides.kay_enojado_still_too_late.Show = function () {
@@ -35,9 +38,9 @@ Slides.kay_enojado_still_too_late.Show = function () {
     var earthexploding = $("g#earthexploding");
     var missionfailed = $("g#missionfailed");
     var asteroid = $("g#asteroid");
-    var myAudio = document.getElementById('audio2')
-    myAudio.oncanplaythrough = function () { this.play()}; 
-    
+    var myAudio = document.getElementById('boom')
+    //myAudio= function () { this.play()}; 
+
     earth.attr("transform", "translate(480,300) scale(1.5,1.5)");
     earthexploding.attr("transform", "translate(480,300) scale(1.5,1.5)").hide();
     missionfailed.attr("transform", "translate(480,300) scale(1.5,1.5)").hide();
@@ -45,17 +48,18 @@ Slides.kay_enojado_still_too_late.Show = function () {
 
     $('svg').append(missionfailed);
 
-    asteroid.animate({ svgTransform: 'translate(480,300) scale(1.5,1.5)'}, 1500);
+    asteroid.animate({ svgTransform: 'translate(480,300) scale(1.5,1.5)'}, 1400, function(){
+        myAudio.play();
+    });
+
     earthexploding.attr("transform", "translate(500,320) scale(1.5,1.5)").fadeIn(6000);
     earth.attr("transform", "translate(480,300) scale(1.5,1.5)").fadeOut(4000);
     asteroid.animate({ svgTransform: 'translate(480,300) scale(1.5,1.5)'}).fadeOut(500);
     missionfailed.attr("transform", "translate(480,300) scale(1.5,1.5)").fadeIn(10000);
 
-
     var d = $.Deferred();
 	d.resolve();
 	return d.promise();
-
 
 };
 

@@ -13,7 +13,7 @@ Slides.zachary_morgan_timefuture.Load = function () {
         svgsToLoad.push(LoadSvg(svg, "/slides/resources/morgan_damagedearth2.svg"));
         svgsToLoad.push(LoadSvg(svg, "/slides/resources/morgan_damagedearth3.svg"));
         svgsToLoad.push(LoadSvg(svg, "/slides/resources/morgan_damagedearth4.svg"));
-        svgsToLoad.push(LoadSvg(svg, "/slides/resources/morgan_teleflash.sbg"));
+        svgsToLoad.push(LoadSvg(svg, "/slides/resources/morgan_teleflash.svg"));
         svgsToLoad.push(LoadSvg(svg, "/slides/resources/morgan_timetraveler.svg"));
 
         $.when.apply($, svgsToLoad).done(function () {
@@ -41,24 +41,27 @@ Slides.zachary_morgan_timefuture.Show = function () {
     topBit.attr("opacity", "1");
     midBit.attr("opacity", "1");
     bottomBit.attr("opacity", "1");
-    flash.attr("opacity", "0");
-    traveler.attr("opacity", "0");
-
-    wearth.attr("transform", "translate(400,1500) scale(5,5)");
+    //flash.attr("opacity", "0");
+    //traveler.attr("opacity", "0");
+         
+    wearth.attr("transform", "translate(400,1700) rotate(335) scale(5,5)");
     topBit.attr("transform", "translate(200,-850) scale(5,5)");
     midBit.attr("transform", "translate(-400,150) scale(5,5)");
     bottomBit.attr("transform", "translate(-650,250) scale(5,5)");
 
-    //topBit.animate({ svgTransform: "rotate(5)" }, 1500);
-
-    wearth.animate({ svgTransform: "translate(550,400) scale(0.75,0.75)" }, 7000);
+    wearth.animate({ svgTransform: "translate(550,400) rotate(335) scale(0.75,0.75)" }, 7000);
     topBit.animate({ svgTransform: "translate(400,150) scale(0.75,0.75)" }, 7000);
     midBit.animate({ svgTransform: "translate(280,275) scale(0.75,0.75)" }, 7000);
     bottomBit.animate({ svgTransform: "translate(225,450) scale(0.75,0.75)" }, 7000);
 
-    //flash.attr("transform", "translate(200,500)");
-    //flash.animate({ svgTransform: "opacity(1)" }, 200);
-    
+    flash.attr("transform", "opacity(0) translate(700,125) scale(1.5,1.5) rotate(345)");
+    flash.delay(7900).fadeIn("slow").animate({ svgTransform: "opacity(1) translate(700,125) scale(1.5,1.5) rotate(345)" }, 500);
+
+    traveler.attr("transform", "opacity(0) translate(700,125) scale(1.5,1.5) rotate(345)");
+    traveler.delay(8500).fadeIn("slow").animate({ svgTransform: "opacity(1) translate(700,125) scale(1.5,1.5) rotate(345)" }, 500);
+
+    flash.attr("transform", "opacity(0) translate(700,125) scale(1.5,1.5) rotate(345)");
+    flash.delay(1000).fadeOut("slow").animate({ svgTransform: "opacity(0) translate(700,125) scale(1.5,1.5) rotate(345)" }, 50);
 };
 
 Slides.zachary_morgan_timefuture.Hide = function () {

@@ -107,6 +107,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\star.png" />
+    <Content Include="images\star_y.png" />
     <Content Include="js\star.js" />
     <Content Include="slides\css\kaori_price_accept.css" />
     <Content Include="slides\css\jameson_nuss_accident.css" />

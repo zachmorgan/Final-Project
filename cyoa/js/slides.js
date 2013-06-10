@@ -142,6 +142,6 @@ $(function () {
         }
     });
 
-    GoToSlide("kaori_price_accept");
+    GoToSlide("kay_enojado_newspaper");
 
 });
