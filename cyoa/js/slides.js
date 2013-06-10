@@ -142,6 +142,6 @@ $(function () {
         }
     });
 
-    GoToSlide("kay_enojado_newspaper");
+    GoToSlide("kay_enojado_saves_the_world");
 
 });
