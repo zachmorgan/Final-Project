@@ -4,27 +4,27 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="56.186px" height="100px" viewBox="0 0 56.186 100" enable-background="new 0 0 56.186 100" xml:space="preserve">
 <g id="person">
-	<ellipse fill="#FFFFFF" cx="-0.145" cy="-86.833" rx="10.701" ry="11.489"/>
-	<rect x="-3.759" y="-76.479" fill="#FFFFFF" width="7.758" height="15.227"/>
-	<rect x="-9.938" y="-7.583" fill="#FFFFFF" width="9.019" height="3.503"/>
-	<rect x="1.085" y="-7.583" fill="#FFFFFF" width="9.018" height="3.503"/>
-	<rect x="-9.938" y="-40.563" fill="#0000FF" width="9.019" height="32.958"/>
-	<rect x="1.085" y="-40.563" fill="#0000FF" width="9.018" height="32.958"/>
-	<rect x="-12.27" y="-1.53" fill="#FF0000" width="11.341" height="4.53"/>
-	<rect x="1.085" y="-1.53" fill="#FF0000" width="11.341" height="4.53"/>
+	<rect x="-6.534" y="-72.334" fill="#FFFFFF" width="13.081" height="15.227"/>
+	<path fill="#FFFFFF" d="M12.35-92.279c-2.466-8.602-12.381-7.725-12.381-7.725v0.053c-0.589-0.043-9.964-0.603-12.353,7.728
+		c-2.466,8.601,1.698,25.476,12.437,25.476v-0.063C10.687-66.956,14.806-83.715,12.35-92.279z"/>
 	<g>
-		<rect x="1.085" y="-4.06" fill="#FF4000" width="9.018" height="2.51"/>
-		<rect x="-9.947" y="-4.06" fill="#FF4000" width="9.018" height="2.51"/>
+		<path fill="#FFFFFF" d="M-12.703-84.266c0,0-1.38-1.477-2.159-0.511c-0.779,0.966-0.12,3.239,0.9,4.432
+			c1.018,1.192,1.137,1.931,2.037,1.192L-12.703-84.266z"/>
+		<path fill="#FFFFFF" d="M12.791-84.266c0,0,1.377-1.477,2.158-0.511c0.779,0.966,0.12,3.239-0.9,4.432
+			c-1.02,1.192-1.139,1.931-2.037,1.192L12.791-84.266z"/>
 	</g>
-	<circle fill="#FFFFFF" cx="24.688" cy="-45.819" r="3.507"/>
+	<rect x="-10.051" y="-60.245" fill="#FFFFFF" width="20.041" height="34.07"/>
+	<rect x="-10.051" y="-26.867" fill="#FFFFFF" width="9.019" height="26.867"/>
+	<rect x="0.971" y="-26.867" fill="#FFFFFF" width="9.018" height="26.867"/>
 	<g>
-		<rect x="-3.759" y="-71.468" fill="#FFBF00" width="7.758" height="10.216"/>
-		<rect x="-9.938" y="-62.01" fill="#FFBF00" width="20.041" height="24.645"/>
 		
-			<rect x="-3.191" y="-62.074" transform="matrix(0.7071 0.7071 -0.7071 0.7071 -37.9159 -25.5957)" fill="#FFBF00" width="30.259" height="7.015"/>
-		
-			<rect x="-26.825" y="-62.034" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 -61.4442 -91.6046)" fill="#FFBF00" width="30.15" height="7.013"/>
+			<rect x="0.286" y="-56.442" transform="matrix(0.7071 0.7071 -0.7071 0.7071 -33.5317 -24.918)" fill="#FFFFFF" width="26.052" height="7.014"/>
+		<circle fill="#FFFFFF" cx="24.574" cy="-41.674" r="3.507"/>
 	</g>
-	<circle fill="#FFFFFF" cx="-24.46" cy="-45.819" r="3.507"/>
+	<g>
+		
+			<rect x="-26.339" y="-56.441" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 -60.1563 -80.9521)" fill="#FFFFFF" width="26.053" height="7.013"/>
+		<circle fill="#FFFFFF" cx="-24.574" cy="-41.674" r="3.507"/>
+	</g>
 </g>
 </svg>

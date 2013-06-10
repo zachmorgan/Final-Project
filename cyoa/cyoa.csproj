@@ -119,7 +119,6 @@
     <Content Include="slides\css\kay_enojado_still_too_late.css" />
     <Content Include="slides\css\kc_forsyth_timeiscritical.css" />
     <Content Include="slides\css\kc_forsyth_training.css" />
-    <Content Include="slides\css\zachary_morgan_timefuture.css" />
     <Content Include="slides\css\zachary_morgan_toughdecision.css" />
     <Content Include="slides\html\kay_enojado_newspaper.html" />
     <Content Include="slides\html\kay_enojado_still_too_late.html" />
@@ -199,7 +198,6 @@
     <Content Include="slides\css\kc_forsyth_timeiscritical.css" />
     <Content Include="slides\css\kc_forsyth_training.css" />
     <Content Include="slides\css\start.css" />
-    <Content Include="slides\css\zachary_morgan_timefuture.css" />
     <Content Include="slides\css\zachary_morgan_toughdecision.css" />
     <Content Include="slides\html\jameson_nuss_accident.html" />
     <Content Include="slides\html\jameson_nuss_time.html" />
