@@ -27,6 +27,9 @@ Slides.kay_enojado_still_too_late.Load = function () {
 };
 
 Slides.kay_enojado_still_too_late.Unload = function() {
+    $('audio').each(function (){
+        this.pause();
+    });
 };
 
 Slides.kay_enojado_still_too_late.Show = function () {

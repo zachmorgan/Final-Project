@@ -31,7 +31,7 @@ Slides.kay_enojado_newspaper.Show = function () {
     $('svg').append(missionfailed);
 
     newspaper.animate({ svgTransform: 'translate(480,300) scale(1.5,1.5)'}, 2000);
-    missionfailed.attr("transform", "translate(480,300) scale(1.5,1.5)").fadeIn(5000);
+    missionfailed.attr("transform", "translate(480,300) scale(1.5,1.5)").fadeIn(7000);
 
     var d = $.Deferred();
 	d.resolve();
