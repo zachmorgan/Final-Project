@@ -26,7 +26,10 @@ Slides.johnson_andrew_time_travel.Load = function () {
 };
 
 Slides.johnson_andrew_time_travel.Unload = function () {
-
+    $("audio").each(function () {
+        this.pause();
+        
+    });
 };
 
 Slides.johnson_andrew_time_travel.Show = function () {
