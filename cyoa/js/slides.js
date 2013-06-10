@@ -141,6 +141,6 @@ $(function () {
         }
     });
 
-    GoToSlide("zachary_morgan_timefuture");
+    GoToSlide("start");
 
 });
