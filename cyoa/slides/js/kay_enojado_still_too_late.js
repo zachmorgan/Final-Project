@@ -2,6 +2,7 @@
 Slides.kay_enojado_still_too_late = new Slide();
 
  
+var SVG = null;
 
 Slides.kay_enojado_still_too_late.Load = function () {
     var d = $.Deferred();
@@ -11,6 +12,7 @@ Slides.kay_enojado_still_too_late.Load = function () {
 
         var svgsToLoad = [];
         
+        SVG = svg;
 
         svgsToLoad.push(LoadSvg(svg, '/slides/resources/kay_enojado_earth.svg'));
         svgsToLoad.push(LoadSvg(svg, '/slides/resources/kay_enojado_earth_exploding.svg'));
@@ -33,6 +35,8 @@ Slides.kay_enojado_still_too_late.Unload = function() {
 };
 
 Slides.kay_enojado_still_too_late.Show = function () {
+
+    SVG.configure({ viewBox: "0 0 950 680" })
 
     var earth = $("g#earth");
     var earthexploding = $("g#earthexploding");
