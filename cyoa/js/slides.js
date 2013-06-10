@@ -142,6 +142,6 @@ $(function () {
         }
     });
 
-    GoToSlide("jameson_nuss_accident");
+    GoToSlide("kaori_price_accept");
 
 });
