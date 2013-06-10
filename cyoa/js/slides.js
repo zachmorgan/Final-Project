@@ -142,6 +142,10 @@ $(function () {
         }
     });
 
+<<<<<<< HEAD
     GoToSlide("zachary_morgan_toughdecision");
+=======
+    GoToSlide("kc_forsyth_training");
+>>>>>>> f28fbba2f161630e909aef1243a4fad05b4b2cc7
 
 });
