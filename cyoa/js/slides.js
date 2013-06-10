@@ -127,7 +127,6 @@ $(function () {
     });
 
     //go to the start slide
-
     $("#button1").click(function() {
         var target = $(this).data("slide");
         if (target != null) {
@@ -142,6 +141,6 @@ $(function () {
         }
     });
 
-    GoToSlide("zachary_morgan_toughdecision");
+    GoToSlide("start");
 
 });

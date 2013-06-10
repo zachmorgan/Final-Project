@@ -19,7 +19,6 @@ Slides.zachary_morgan_toughdecision.Load = function () {
 };
 
 Slides.zachary_morgan_toughdecision.Unload = function() {
-    $("button").unbind("click");
 };
 
 Slides.zachary_morgan_toughdecision.Show = function () {

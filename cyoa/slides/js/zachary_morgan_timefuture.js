@@ -26,7 +26,6 @@ Slides.zachary_morgan_timefuture.Load = function () {
 };
 
 Slides.zachary_morgan_timefuture.Unload = function() {
-    $("button").unbind("click");
 };
 
 Slides.zachary_morgan_timefuture.Show = function () {
