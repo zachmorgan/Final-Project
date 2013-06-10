@@ -13,12 +13,11 @@ div#office img {
     position: absolute;
     top: 0;
     left: 0;
-    margin-left: 35px;
 }
 
 div#flag img{
     z-index: -1;
     
-    margin-left: 80px;
+    margin-left: 40px;
     margin-top: 5px;
 }

@@ -127,8 +127,7 @@ $(function () {
     });
 
     //go to the start slide
-
-    $("#button1").click(function() {
+    $("#button1").click(function () {
         var target = $(this).data("slide");
         if (target != null) {
             GoToSlide(target);
@@ -142,10 +141,6 @@ $(function () {
         }
     });
 
-<<<<<<< HEAD
-    GoToSlide("zachary_morgan_toughdecision");
-=======
-    GoToSlide("kc_forsyth_training");
->>>>>>> f28fbba2f161630e909aef1243a4fad05b4b2cc7
+    GoToSlide("zachary_morgan_timefuture");
 
 });

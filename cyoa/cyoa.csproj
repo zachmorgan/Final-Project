@@ -119,11 +119,9 @@
     <Content Include="slides\css\kay_enojado_still_too_late.css" />
     <Content Include="slides\css\kc_forsyth_timeiscritical.css" />
     <Content Include="slides\css\kc_forsyth_training.css" />
-    <Content Include="slides\css\zachary_morgan_timefuture.css" />
     <Content Include="slides\css\zachary_morgan_toughdecision.css" />
     <Content Include="slides\html\kay_enojado_newspaper.html" />
     <Content Include="slides\html\kay_enojado_still_too_late.html" />
-    <Content Include="slides\html\president_2.html" />
     <Content Include="slides\html\zachary_morgan_toughdecision.html" />
     <Content Include="slides\js\kay_enojado_newspaper.js" />
     <Content Include="slides\js\kay_enojado_still_too_late.js" />
@@ -175,6 +173,7 @@
     <Content Include="slides\resources\morgan_timetraveler.svg" />
     <Content Include="slides\resources\morgan_usflag.gif" />
     <Content Include="slides\resources\siren.mp3" />
+    <Content Include="slides\resources\start.svg" />
     <Content Include="web.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
@@ -199,9 +198,7 @@
     <Content Include="slides\css\kay_enojado_still_too_late.css" />
     <Content Include="slides\css\kc_forsyth_timeiscritical.css" />
     <Content Include="slides\css\kc_forsyth_training.css" />
-    <Content Include="slides\css\president.css" />
     <Content Include="slides\css\start.css" />
-    <Content Include="slides\css\zachary_morgan_timefuture.css" />
     <Content Include="slides\css\zachary_morgan_toughdecision.css" />
     <Content Include="slides\html\jameson_nuss_accident.html" />
     <Content Include="slides\html\jameson_nuss_time.html" />
@@ -211,7 +208,6 @@
     <Content Include="slides\html\kaori_price_nuclear.html" />
     <Content Include="slides\html\kc_forsyth_timeiscritical.html" />
     <Content Include="slides\html\kc_forsyth_training.html" />
-    <Content Include="slides\html\president.html" />
     <Content Include="slides\html\start.html" />
     <Content Include="slides\html\zachary_morgan_timefuture.html" />
     <Content Include="slides\js\blank.js" />
@@ -221,7 +217,6 @@
     <Content Include="slides\js\jameson_nuss_accident.js" />
     <Content Include="slides\js\jameson_nuss_time.js" />
     <Content Include="slides\js\kaori_price_nuclear.js" />
-    <Content Include="slides\js\president.js" />
     <Content Include="slides\js\start.js" />
     <Content Include="slides\js\svgtemplate.js" />
     <Content Include="slides\js\zachary_morgan_timefuture.js" />
