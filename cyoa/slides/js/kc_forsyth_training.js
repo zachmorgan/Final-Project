@@ -71,6 +71,7 @@ Slides.kc_forsyth_training.Show = function () {
     jumpingjacks();
   
 
+    var d = $.Deferred();
     d.resolve();
     return d.promise();
 };

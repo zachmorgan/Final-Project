@@ -142,6 +142,6 @@ $(function () {
         }
     });
 
-    GoToSlide("kaori_price_accept");
+    GoToSlide("kc_forsyth_training");
 
 });

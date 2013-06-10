@@ -5,6 +5,7 @@ var SVG = null;
 
 Slides.kaori_price_accept.Load = function () {
 
+
     var d = $.Deferred();
 
     //Make sure to add <div id="svgcontainer"></div> 
@@ -30,6 +31,10 @@ Slides.kaori_price_accept.Unload = function () {
 };
 
 Slides.kaori_price_accept.Show = function () {
+
+    $("audio").each(function () {
+        this.play();
+    });
 
     SVG.configure({ viewBox: "0 0 620 460" });
 
@@ -77,8 +82,6 @@ Slides.kaori_price_accept.Show = function () {
 
     setTimeout(function () {
         harmony();
-        var myAudio = document.getElementById('audio1')
-        myAudio.oncanplaythrough = function () { this.play(); }
         $(g).find("*").delay(1000).animate({ svgFill: "#fff" }, 5000).animate({ svgFill: "#f00" }, 6000);
         $(earth).delay(1000).animate({ svgFill: "#000"}, 5000).animate({ svgFill: "#000" }, 5000);
         $(asteroid).delay(10).animate({ svgR: 100, svgFill: "#f00" }, 2000);

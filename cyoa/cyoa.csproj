@@ -124,6 +124,7 @@
     <Content Include="slides\html\kay_enojado_newspaper.html" />
     <Content Include="slides\html\kay_enojado_still_too_late.html" />
     <Content Include="slides\html\president_2.html" />
+    <Content Include="slides\html\zachary_morgan_toughdecision.html" />
     <Content Include="slides\js\kay_enojado_newspaper.js" />
     <Content Include="slides\js\kay_enojado_still_too_late.js" />
     <Content Include="slides\js\kc_forsyth_timeiscritical.js" />
@@ -213,7 +214,6 @@
     <Content Include="slides\html\president.html" />
     <Content Include="slides\html\start.html" />
     <Content Include="slides\html\zachary_morgan_timefuture.html" />
-    <Content Include="slides\html\zachary_morgan_toughdecison.html" />
     <Content Include="slides\js\blank.js" />
     <Content Include="slides\js\johnson_andrew_earth_destroyed.js" />
     <Content Include="slides\js\johnson_andrew_time_travel.js" />
