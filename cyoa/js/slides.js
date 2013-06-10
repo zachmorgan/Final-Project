@@ -142,6 +142,6 @@ $(function () {
         }
     });
 
-    GoToSlide("kay_enojado_newspaper");
+    GoToSlide("jameson_nuss_accident");
 
 });
